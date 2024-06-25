@@ -1,7 +1,7 @@
 [
     {
         "title": "Game 1",
-        "image": "game1.jpg",
+        "image": "https://raw.githubusercontent.com/crackfusion/crackfusion-data/main/game-images/game1.jpg",
         "description": "Description for Game 1",
         "downloadLinks": [
             {"host": "Gofile", "url": "https://gofile.io/?c=example1"},
@@ -12,7 +12,7 @@
     },
     {
         "title": "Game 2",
-        "image": "game2.jpg",
+        "image": "https://raw.githubusercontent.com/crackfusion/crackfusion-data/main/game-images/game2.jpg",
         "description": "Description for Game 2",
         "downloadLinks": [
             {"host": "Gofile", "url": "https://gofile.io/?c=example2"}
