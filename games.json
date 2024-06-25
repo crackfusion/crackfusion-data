@@ -1,0 +1,24 @@
+[
+    {
+        "title": "Rooftops & Alleys",
+        "description": "Description of Game 1",
+        "image": "Rooftops-And-Alleys-22.jpg",
+        "date": "2023-06-24",
+        "downloadLinks": [
+            {"host": "Gofile", "url": "https://gofile.io/d/tNPTpi"},
+            {"host": "Doodrive", "url": "https://doodrive.io/d/Game1"}
+        ],
+        "source": "https://steamrip.com"
+    },
+    {
+        "title": "Game 2",
+        "description": "Description of Game 2",
+        "image": "game2.jpg",
+        "date": "2024-06-23",
+        "downloadLinks": [
+            {"host": "Gofile", "url": "https://gofile.io/d/Game2"},
+            {"host": "Doodrive", "url": "https://doodrive.io/d/Game2"}
+        ],
+        "source": "https://cs.rin.ru"
+    }
+]
