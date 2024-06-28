@@ -4,9 +4,21 @@
         "title": "Rooftops & Alleys",
         "image": "https://raw.githubusercontent.com/crackfusion/crackfusion-data/main/game-images/Rooftops-And-Alleys-22.jpg",
         "description": "Ever felt like the world was missing that one Parkour game? That game that scratches that Parkour/Freerunning itch that other games just don't? Rooftops & Alleys aka TheParkourGame is aiming to deliver! Rooftops & Alleys is a brand new game being developed by a single person in Unreal Engine 5. RNA has been in development for around 8-9 months and is ongoing. This project aims to create a fun single-player experience with multiple maps to free roam and challenge yourself in. This game will be its own unique take on the Parkour and freerunning gaming genre and will feature its own control scheme and tricking system (Controllers will offer the best experience, keyboard & mouse is also supported). Currently, the game is being developed primarily for PC, with the intent of releasing on consoles upon official release later on.",
-        "downloadLinks": [
-            {"host": "Gofile", "url": "https://gofile.io/d/tNPTpi"},
-            {"host": "Fastupload", "url": ""}
+        "versions": [
+            {
+                "version": "1.0",
+                "downloadLinks": [
+                    {"host": "Gofile", "url": "https://gofile.io/d/tNPTpi"},
+                    {"host": "Fastupload", "url": ""}
+                ]
+            },
+            {
+                "version": "1.1",
+                "downloadLinks": [
+                    {"host": "Gofile", "url": "https://gofile.io/d/someotherlink"},
+                    {"host": "Fastupload", "url": ""}
+                ]
+            }
         ],
         "source": "https://crackfusion.xyz",
         "addedDate": "2024-06-25"
@@ -16,9 +28,21 @@
         "title": "Police Simulator: Patrol Officers + ALL DLCS",
         "image": "https://raw.githubusercontent.com/crackfusion/crackfusion-data/main/game-images/policesimulator.jpg",
         "description": "Welcome to Brighton! Join the police force of this fictitious American city and experience the day to day life of a Police Officer. Start with citing violations and giving out parking tickets, then work your way towards shouldering more responsibilities. Be part of the community of Brighton, get to know your neighborhood and handle daily police work to fight crime during your shift. Always be tough, but fair: respect the law and gain more experience to unlock more neighborhoods, districts and duties.",
-        "downloadLinks": [
-            {"host": "Gofile", "url": "https://gofile.io/d/61cdd89f-4c24-4b8b-9f7c-07b1b95cf6d1"},
-            {"host": "Fastupload", "url": ""}
+        "versions": [
+            {
+                "version": "1.0",
+                "downloadLinks": [
+                    {"host": "Gofile", "url": "https://gofile.io/d/61cdd89f-4c24-4b8b-9f7c-07b1b95cf6d1"},
+                    {"host": "Fastupload", "url": ""}
+                ]
+            },
+            {
+                "version": "1.1",
+                "downloadLinks": [
+                    {"host": "Gofile", "url": "https://gofile.io/d/someotherlink"},
+                    {"host": "Fastupload", "url": ""}
+                ]
+            }
         ],
         "source": "https://god0654.github.io/DigitalZone/Posts/Police-Simulator-Patrol-Officers.html",
         "addedDate": "2024-06-25"
@@ -28,9 +52,21 @@
         "title": "Bodycam + Multiplayer",
         "image": "https://raw.githubusercontent.com/crackfusion/crackfusion-data/main/game-images/bodycam.jpg",
         "description": "Bodycam is a new, ultra-realistic multiplayer first-person shooter (FPS) game built on the powerful Unreal Engine 5. It stands out for its innovative approach to FPS gaming, simulating the perspective and visual effects of police body camera footage. This includes a limited field of view, camera shake, and distortion, adding a unique layer of immersion and intensity to the gameplay.",
-        "downloadLinks": [
-            {"host": "Gofile", "url": "https://gofile.io/d/80y7Yp"},
-            {"host": "Fastupload", "url": "https://fs3.fastupload.io/964c587bfdb5f3e1/Bodycam-CrackFusion.xyz.zip?download_token=86e1d74c268fe36a23d3dd0f9c6f5d9b6414d758fdd5de1332148026f6a9fb88"}
+        "versions": [
+            {
+                "version": "1.0",
+                "downloadLinks": [
+                    {"host": "Gofile", "url": "https://gofile.io/d/80y7Yp"},
+                    {"host": "Fastupload", "url": "https://fs3.fastupload.io/964c587bfdb5f3e1/Bodycam-CrackFusion.xyz.zip?download_token=86e1d74c268fe36a23d3dd0f9c6f5d9b6414d758fdd5de1332148026f6a9fb88"}
+                ]
+            },
+            {
+                "version": "1.1",
+                "downloadLinks": [
+                    {"host": "Gofile", "url": "https://gofile.io/d/anotherlink"},
+                    {"host": "Fastupload", "url": ""}
+                ]
+            }
         ],
         "source": "https://crackfusion.xyz",
         "addedDate": "2024-06-25"
@@ -40,9 +76,21 @@
         "title": "POOLS",
         "image": "https://bleedingcool.com/wp-content/uploads/2024/04/Pools-Main-Art-900x900.jpg",
         "description": "The most important thing about POOLS is to look around and listen to the sounds. It's not about winning or losing. You could say it's an art gallery where you walk around and soak up the atmosphere. There are no monsters chasing you or suddenly jumping towards you. There are very few things to solve, practically a few mazes. Sometimes the game can test your navigation skills. But mostly you're just exploring.",
-        "downloadLinks": [
-            {"host": "Buzzheavier", "url": "https://buzzheavier.com/f/GQ_Sv8myoAA="},
-            {"host": "Fastupload", "url": "https://fastupload.io/556857633c381a78"}
+        "versions": [
+            {
+                "version": "1.0",
+                "downloadLinks": [
+                    {"host": "Buzzheavier", "url": "https://buzzheavier.com/f/GQ_Sv8myoAA="},
+                    {"host": "Fastupload", "url": "https://fastupload.io/556857633c381a78"}
+                ]
+            },
+            {
+                "version": "1.1",
+                "downloadLinks": [
+                    {"host": "Buzzheavier", "url": "https://buzzheavier.com/f/anotherlink"},
+                    {"host": "Fastupload", "url": ""}
+                ]
+            }
         ],
         "source": "https://crackfusion.xyz",
         "addedDate": "2024-06-26"
