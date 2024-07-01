@@ -9,14 +9,14 @@
                 "version": "Old",
                 "downloadLinks": [
                     {"host": "Gofile", "url": "https://gofile.io/d/tNPTpi"},
-                    {"host": "Buzzheavier", "url": "https://filecrypt.co/Container/C5DB2EF415.html"}
+                    {"host": "Buzzheavier", "url": ""}
                 ]
             },
             {
                 "version": "v0.1.6",
                 "downloadLinks": [
                     {"host": "Gofile", "url": ""},
-                    {"host": "Fastupload", "url": "https://filecrypt.co/Container/F912E8F4D7.html"}
+                    {"host": "Buzzheavier", "url": "https://filecrypt.co/Container/C5DB2EF415.html"}
                 ]
             }
         ],
