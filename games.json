@@ -66,8 +66,8 @@
             {
                 "version": "v0.32",
                 "downloadLinks": [
-                    {"host": "Buzzheavier", "url": "https://buzzheavier.com/f/GQ_Sv8myoAA="},
-                    {"host": "Fastupload", "url": "https://fastupload.io/556857633c381a78"}
+                    {"host": "Buzzheavier", "url": ""},
+                    {"host": "Fastupload", "url": ""}
                 ]
             }
         ],
