@@ -6,21 +6,21 @@
         "description": "Ever felt like the world was missing that one Parkour game? That game that scratches that Parkour/Freerunning itch that other games just don't? Rooftops & Alleys aka TheParkourGame is aiming to deliver! Rooftops & Alleys is a brand new game being developed by a single person in Unreal Engine 5. RNA has been in development for around 8-9 months and is ongoing. This project aims to create a fun single-player experience with multiple maps to free roam and challenge yourself in. This game will be its own unique take on the Parkour and freerunning gaming genre and will feature its own control scheme and tricking system (Controllers will offer the best experience, keyboard & mouse is also supported). Currently, the game is being developed primarily for PC, with the intent of releasing on consoles upon official release later on.",
         "versions": [
             {
-                "version": "v1.0",
+                "version": "Old",
                 "downloadLinks": [
                     {"host": "Gofile", "url": "https://gofile.io/d/tNPTpi"},
                     {"host": "Fastupload", "url": ""}
                 ]
             },
             {
-                "version": "v2.0",
+                "version": "v0.1.6",
                 "downloadLinks": [
-                    {"host": "Gofile", "url": "https://gofile.io/d/newVersion"},
-                    {"host": "Fastupload", "url": ""}
+                    {"host": "Gofile", "url": ""},
+                    {"host": "Fastupload", "url": "https://filecrypt.co/Container/F912E8F4D7.html"}
                 ]
             }
         ],
-        "source": "https://crackfusion.xyz",
+        "source": "https://store.steampowered.com/app/2703850/Rooftops__Alleys_The_Parkour_Game/",
         "addedDate": "2024-06-25"
     },
     {
@@ -59,12 +59,12 @@
     },
     {
         "id": "4",
-        "title": "POOLS",
-        "image": "https://bleedingcool.com/wp-content/uploads/2024/04/Pools-Main-Art-900x900.jpg",
-        "description": "The most important thing about POOLS is to look around and listen to the sounds. It's not about winning or losing. You could say it's an art gallery where you walk around and soak up the atmosphere. There are no monsters chasing you or suddenly jumping towards you. There are very few things to solve, practically a few mazes. Sometimes the game can test your navigation skills. But mostly you're just exploring.",
+        "title": "BeamNG.drive (LATEST)",
+        "image": "https://raw.githubusercontent.com/crackfusion/crackfusion-data/main/game-images/beamng.jpg",
+        "description": "BeamNG.drive is a realistic vehicle simulation game known for its soft-body physics engine, enabling incredibly detailed and dynamic crashes and deformations. Players can explore a variety of environments with a wide range of vehicles, from everyday cars to heavy-duty trucks and even off-road vehicles. The game offers diverse gameplay options, from free-roaming exploration and experimentation to scenario-based challenges and time trials.",
         "versions": [
             {
-                "version": "v1.0",
+                "version": "v0.32",
                 "downloadLinks": [
                     {"host": "Buzzheavier", "url": "https://buzzheavier.com/f/GQ_Sv8myoAA="},
                     {"host": "Fastupload", "url": "https://fastupload.io/556857633c381a78"}
@@ -72,6 +72,6 @@
             }
         ],
         "source": "https://crackfusion.xyz",
-        "addedDate": "2024-06-26"
+        "addedDate": "2024-07-01"
     }
 ]
