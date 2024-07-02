@@ -52,6 +52,13 @@
                     {"host": "Gofile", "url": "https://gofile.io/d/80y7Yp"},
                     {"host": "Fastupload", "url": "https://fs3.fastupload.io/964c587bfdb5f3e1/Bodycam-CrackFusion.xyz.zip?download_token=86e1d74c268fe36a23d3dd0f9c6f5d9b6414d758fdd5de1332148026f6a9fb88"}
                 ]
+            },
+            {
+                "version": "v1.0",
+                "downloadLinks": [
+                    {"host": "Gofile", "url": ""},
+                    {"host": "Fastupload", "url": ""}
+                ]
             }
         ],
         "source": "https://crackfusion.xyz",
@@ -67,7 +74,7 @@
                 "version": "v0.32",
                 "downloadLinks": [
                     {"host": "Buzzheavier", "url": ""},
-                    {"host": "Fastupload", "url": ""}
+                    {"host": "Gofile", "url": "https://filecrypt.co/Container/15E85744B7.html"}
                 ]
             }
         ],
