@@ -97,5 +97,22 @@
         ],
         "source": "https://crackfusion.xyz",
         "addedDate": "2024-07-02"
+    },
+    {
+        "id": "6",
+        "title": "Worldbox",
+        "image": "https://raw.githubusercontent.com/crackfusion/crackfusion-data/main/game-images/worldbox.jpg",
+        "description": "WorldBox is a god simulator where you create and interact with a pixel world. You can shape the land, populate it with various creatures, and trigger natural disasters or even unleash powerful beings. The game allows for experimentation and emergent storytelling as you observe how different elements interact and influence the world you've created.",
+        "versions": [
+            {
+                "version": "v0.22.9",
+                "downloadLinks": [
+                    {"host": "Gofile (fastest)", "url": "https://filecrypt.co/Container/7E4556D138.html"},
+                    {"host": "Buzzheavier (forever)", "url": "https://filecrypt.co/Container/EAC78B5A35.html"}
+                ]
+            }
+        ],
+        "source": "https://crackfusion.xyz",
+        "addedDate": "2024-07-02"
     }
 ]
