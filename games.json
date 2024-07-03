@@ -58,10 +58,10 @@
                 ]
             },
             {
-                "version": "v1.0",
-                "date": "2024-06-10",
+                "version": "v1.2.5 Hotfix 1",
+                "date": "2024-07-3",
                 "downloadLinks": [
-                    {"host": "Gofile", "url": ""},
+                    {"host": "Gofile", "url": "https://filecrypt.co/Container/52879E1BCE.html"},
                     {"host": "Fastupload", "url": ""}
                 ]
             }
