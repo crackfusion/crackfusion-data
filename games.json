@@ -131,5 +131,24 @@
         ],
         "source": "https://crackfusion.xyz",
         "addedDate": "2024-07-02"
+    },
+    {
+        "id": "7",
+        "title": "People Playground",
+        "image": "https://raw.githubusercontent.com/crackfusion/crackfusion-data/main/game-images/peopleplayground.jpg",
+        "description": "Forget everything you know about being nice, because this game is your virtual sandbox of chaotic creativity. Want to see what happens when you launch a person from a catapult wearing a jetpack? Go ahead! Fancy building a domino chain of explosives with unsuspecting stick figures? Knock yourself out!",
+        "versions": [
+            {
+                "version": "v1.27 patch 5",
+                "date": "2024-07-05",
+                "downloadLinks": [
+                    {"host": "Gofile (fastest)", "url": ""},
+                    {"host": "Buzzheavier (forever)", "url": ""}
+                    {"host": "Fastupload (fast)", "url": "https://fastupload.io/770f2c2f7b3c244d"}
+                ]
+            }
+        ],
+        "source": "https://crackfusion.xyz",
+        "addedDate": "2024-07-05"
     }
 ]
