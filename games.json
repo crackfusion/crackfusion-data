@@ -150,5 +150,25 @@
         ],
         "source": "https://crackfusion.xyz",
         "addedDate": "2024-07-05"
+    },
+    {
+        "id": "8",
+        "title": "Cities: Skylines",
+        "image": "https://raw.githubusercontent.com/crackfusion/crackfusion-data/main/game-images/citiesskylines.jpg",
+        "description": "Cities: Skylines is a modern take on the classic city simulation. The game introduces new game play elements to realize the thrill and hardships of creating and maintaining a real city whilst expanding on some well-established tropes of the city building experience.",
+        "versions": [
+            {
+                "version": "v1.17.1-f4 (Latest)",
+                "date": "2024-07-06",
+                "downloadLinks": [
+                    {"host": "Gofile (fastest)", "url": "https://gofile.io/d/ZmwW3Z"},
+                    {"host": "Buzzheavier (forever)", "url": ""},
+                    {"host": "Fastupload (fast)", "url": "https://fastupload.io/72dca47eb5355003"},
+                    {"host": "Qiwi (decent)", "url": "https://qiwi.gg/file/582H1984-CitiesSkylines-Crackfusion"}
+                ]
+            }
+        ],
+        "source": "https://crackfusion.xyz",
+        "addedDate": "2024-07-05"
     }
 ]
