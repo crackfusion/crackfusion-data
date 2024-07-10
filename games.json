@@ -170,5 +170,25 @@
         ],
         "source": "https://crackfusion.xyz",
         "addedDate": "2024-07-06"
+    },
+    {
+        "id": "9",
+        "title": "Ultrakill",
+        "image": "https://raw.githubusercontent.com/crackfusion/crackfusion-data/main/game-images/ultrakill_.jpg",
+        "description": "ULTRAKILL is a fast-paced, ultra-violent first-person shooter that revels in its over-the-top gore and stylish action. Players take on the role of a machine tasked with killing hordes of demons in creative and brutal ways, utilizing a variety of unique weapons and abilities. The game features a distinct retro-inspired aesthetic and a pumping soundtrack that complements the frenetic gameplay. ULTRAKILL also rewards stylish kills and skillful movement, encouraging players to experimentand find their own flow in the midst of the carnage.",
+        "versions": [
+            {
+                "version": "standard",
+                "date": "2024-07-10",
+                "downloadLinks": [
+                    {"host": "Gofile (fastest)", "url": "https://gofile.io/d/V7nLd5"},
+                    {"host": "Buzzheavier (forever)", "url": ""},
+                    {"host": "Fastupload (fast)", "url": "https://fastupload.io/ff8d444305d7e0ab"},
+                    {"host": "Qiwi (decent)", "url": "https://qiwi.gg/file/xwJM1352-ULTRAKILL-Crackfusion"}
+                ]
+            }
+        ],
+        "source": "https://crackfusion.xyz",
+        "addedDate": "2024-07-10"
     }
 ]
