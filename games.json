@@ -80,7 +80,7 @@
     },
     {
         "id": "4",
-        "title": "BeamNG.drive (LATEST)",
+        "title": "BeamNG.drive (v0.32)",
         "image": "https://raw.githubusercontent.com/crackfusion/crackfusion-data/main/game-images/beamng.png",
         "description": "BeamNG.drive is a realistic vehicle simulation game known for its soft-body physics engine, enabling incredibly detailed and dynamic crashes and deformations. Players can explore a variety of environments with a wide range of vehicles, from everyday cars to heavy-duty trucks and even off-road vehicles. The game offers diverse gameplay options, from free-roaming exploration and experimentation to scenario-based challenges and time trials.",
         "versions": [
@@ -103,11 +103,19 @@
         "description": "Deep Rock Galactic (DRG) is a cooperative first-person shooter where players take on the roles of badass space dwarves mining for precious resources on hostile alien planets. Armed with an arsenal of high-tech weaponry and specialized tools, players delve into procedurally generated caves filled with dangerous creatures and hidden treasures. Teamwork is key as players must work together to complete missions, gather resources, and survive the perilous depths.",
         "versions": [
             {
-                "version": "B: 14899096 (LATEST)",
+                "version": "Build: 14899096 (Old [MAKE SURE TO SELECT VERSION] )",
                 "date": "2024-07-02",
                 "downloadLinks": [
                     {"host": "Gofile (fastest)", "url": "https://filecrypt.co/Container/F02D460621.html"},
                     {"host": "Buzzheavier (forever) ( USE FDM )", "url": "https://filecrypt.co/Container/5D7E46CA8D.html"}
+                ]
+            },
+            {
+                "version": "Build: n/a (Newest [Releases soon] )",
+                "date": "2024-07-02",
+                "downloadLinks": [
+                    {"host": "Gofile (fastest)", "url": ""},
+                    {"host": "Buzzheavier (forever) ( USE FDM )", "url": ""}
                 ]
             }
         ],
