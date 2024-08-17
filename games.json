@@ -78,7 +78,7 @@
                 "version": "v1.2.5 Hotfix 1",
                 "date": "2024-07-3",
                 "downloadLinks": [
-                    {"host": "Multiup.io", "url": "https://multiup.io/1e2732c8b92dd7b0085dbc700b186948"}
+                    {"host": "Multiup.io", "url": "https://multiup.io/dcaeadba99e0e04b559635faddaeac53"}
                 ]
             }
         ],
@@ -239,10 +239,27 @@
         "description": "In this narrative-driven, third-person survival horror game set 300 years in the future, the player will take on the role of Jacob Lee – a victim of fate thrown into Black Iron Prison, a maximum-security penitentiary located on Jupiter's moon, Callisto. When inmates begin to transform into monstrous creatures, the prison is thrown into chaos. To survive, Jacob must battle his way to safety to escape Black Iron Prison, while uncovering the dark and disturbing secrets buried beneath the surface of Callisto. Using a unique blend of shooting and close-quarters combat, Jacob will need to adapt his tactics to combat the rapidly evolving creatures while scavenging to unlock new weapons, gear, and abilities to outrun the growing threat and escape the horrors of Jupiter's Dead Moon.",
         "versions": [
             {
-                "version": "Build 13179062 | Full Version",
+                "version": "Build: 13179062 | Full Version",
                 "date": "2024-08-17",
                 "downloadLinks": [
                     {"host": "SOON", "url": "#"}
+                ]
+            }
+        ],
+        "source": "https://crackfusion.xyz",
+        "addedDate": "2024-08-17"
+    },
+    {
+        "id": "12",
+        "title": "Dead Island Riptide: Definitive Edition",
+        "image": "https://raw.githubusercontent.com/crackfusion/crackfusion-data/main/game-images/dirde.jpg",
+        "description": "Welcome to the zombie apocalypse experience of a lifetime - and now more beautiful than ever. Caught in the midst of an epic zombie outbreak on the tropical island of Banoi, your only thought is: Survive! Smash heads, crack skulls and slice ‘em up with visceral astounding melee combat and true story-based 4 player co-op in a sprawling open world just waiting for exploration.",
+        "versions": [
+            {
+                "version": "Build: 1837531 | Full Version",
+                "date": "2024-08-17",
+                "downloadLinks": [
+                    {"host": "Multiup.io", "url": "https://multiup.io/48f4d83f5ccf867ab7795eedde29a83a"}
                 ]
             }
         ],
