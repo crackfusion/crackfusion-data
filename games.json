@@ -98,6 +98,13 @@
                     {"host": "Buzzheavier", "url": ""},
                     {"host": "Gofile", "url": "https://filecrypt.co/Container/15E85744B7.html"}
                 ]
+            },
+            {
+                "version": "v0.32.5",
+                "date": "2024-08-17",
+                "downloadLinks": [
+                    {"host": "Multiup.io", "url": "https://filecrypt.co/Container/15E85744B7.html"}
+                ]
             }
         ],
         "source": "https://crackfusion.xyz",
@@ -229,14 +236,13 @@
         "id": "11",
         "title": "The Callisto Protocol",
         "image": "https://raw.githubusercontent.com/crackfusion/crackfusion-data/main/game-images/thecallistoprotocol.jpg",
-        "description": "An atmospheric first-person survival shooter game in which you take on the role of Special Agent Aiden Clark and embark on a deadly mission into an underground laboratory to destroy a biological threat and extract a pathogen sample.",
+        "description": "In this narrative-driven, third-person survival horror game set 300 years in the future, the player will take on the role of Jacob Lee – a victim of fate thrown into Black Iron Prison, a maximum-security penitentiary located on Jupiter's moon, Callisto. When inmates begin to transform into monstrous creatures, the prison is thrown into chaos. To survive, Jacob must battle his way to safety to escape Black Iron Prison, while uncovering the dark and disturbing secrets buried beneath the surface of Callisto. Using a unique blend of shooting and close-quarters combat, Jacob will need to adapt his tactics to combat the rapidly evolving creatures while scavenging to unlock new weapons, gear, and abilities to outrun the growing threat and escape the horrors of Jupiter's Dead Moon.",
         "versions": [
             {
                 "version": "Build 13179062 | Full Version",
                 "date": "2024-08-17",
                 "downloadLinks": [
-                    {"host": "FLASHBANG (forever)", "url": "https://flashbang.sh/f/GUtGpVNB8AA"},
-                    {"host": "Fastupload (fast)", "url": "https://fastupload.io/e2ed400f5c60f1c6"}
+                    {"host": "SOON", "url": ""}
                 ]
             }
         ],
