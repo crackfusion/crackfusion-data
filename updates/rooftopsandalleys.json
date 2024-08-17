@@ -1,141 +1,145 @@
 {
-    "D:\\Games\\RooftopsandAlleys\\CFU.py": {
-        "size": 3160,
-        "modification_date": "2024-08-17 16:26:13"
+    "CFU.exe": {
+        "size": 10023424,
+        "modification_date": "2024-08-17 17:25:48"
     },
-    "D:\\Games\\RooftopsandAlleys\\CFU.txt": {
-        "size": 433,
-        "modification_date": "2024-08-17 16:36:58"
+    "CFU.txt": {
+        "size": 787,
+        "modification_date": "2024-08-17 16:56:00"
     },
-    "D:\\Games\\RooftopsandAlleys\\Crackfusion.xyz - The new ready to play..url": {
+    "Crackfusion.xyz - The new ready to play..url": {
         "size": 137,
         "modification_date": "2024-08-17 16:27:44"
     },
-    "D:\\Games\\RooftopsandAlleys\\create.py": {
-        "size": 914,
-        "modification_date": "2024-08-11 16:13:52"
+    "create.py": {
+        "size": 1048,
+        "modification_date": "2024-08-17 17:33:13"
     },
-    "D:\\Games\\RooftopsandAlleys\\Manifest_NonUFSFiles_Win64.txt": {
+    "Manifest_NonUFSFiles_Win64.txt": {
         "size": 1961,
         "modification_date": "2024-08-10 11:45:38"
     },
-    "D:\\Games\\RooftopsandAlleys\\Manifest_UFSFiles_Win64.txt": {
+    "Manifest_UFSFiles_Win64.txt": {
         "size": 735496,
         "modification_date": "2024-08-10 11:45:29"
     },
-    "D:\\Games\\RooftopsandAlleys\\Read_Me_Instructions.txt": {
+    "Read_Me_Instructions.txt": {
         "size": 1443,
         "modification_date": "2024-07-05 23:30:24"
     },
-    "D:\\Games\\RooftopsandAlleys\\RooftopsandAlleys.exe": {
+    "RooftopsandAlleys.exe": {
         "size": 264704,
         "modification_date": "2024-08-10 11:45:29"
     },
-    "D:\\Games\\RooftopsandAlleys\\Engine\\Binaries\\ThirdParty\\DbgHelp\\dbghelp.dll": {
+    "Engine\\Binaries\\ThirdParty\\DbgHelp\\dbghelp.dll": {
         "size": 1885072,
         "modification_date": "2024-08-10 11:45:29"
     },
-    "D:\\Games\\RooftopsandAlleys\\Engine\\Binaries\\ThirdParty\\NVIDIA\\NVaftermath\\Win64\\GFSDK_Aftermath_Lib.x64.dll": {
+    "Engine\\Binaries\\ThirdParty\\NVIDIA\\NVaftermath\\Win64\\GFSDK_Aftermath_Lib.x64.dll": {
         "size": 1881544,
         "modification_date": "2024-08-10 11:45:29"
     },
-    "D:\\Games\\RooftopsandAlleys\\Engine\\Binaries\\ThirdParty\\Ogg\\Win64\\VS2015\\libogg_64.dll": {
+    "Engine\\Binaries\\ThirdParty\\Ogg\\Win64\\VS2015\\libogg_64.dll": {
         "size": 65480,
         "modification_date": "2024-08-10 11:45:30"
     },
-    "D:\\Games\\RooftopsandAlleys\\Engine\\Binaries\\ThirdParty\\Vorbis\\Win64\\VS2015\\libvorbisfile_64.dll": {
+    "Engine\\Binaries\\ThirdParty\\Vorbis\\Win64\\VS2015\\libvorbisfile_64.dll": {
         "size": 54216,
         "modification_date": "2024-08-10 11:45:30"
     },
-    "D:\\Games\\RooftopsandAlleys\\Engine\\Binaries\\ThirdParty\\Vorbis\\Win64\\VS2015\\libvorbis_64.dll": {
+    "Engine\\Binaries\\ThirdParty\\Vorbis\\Win64\\VS2015\\libvorbis_64.dll": {
         "size": 1730504,
         "modification_date": "2024-08-10 11:45:29"
     },
-    "D:\\Games\\RooftopsandAlleys\\Engine\\Binaries\\ThirdParty\\Windows\\XAudio2_9\\x64\\xaudio2_9redist.dll": {
+    "Engine\\Binaries\\ThirdParty\\Windows\\XAudio2_9\\x64\\xaudio2_9redist.dll": {
         "size": 863776,
         "modification_date": "2024-08-10 11:45:29"
     },
-    "D:\\Games\\RooftopsandAlleys\\Engine\\Extras\\Redist\\en-us\\UEPrereqSetup_x64.exe": {
+    "Engine\\Extras\\Redist\\en-us\\UEPrereqSetup_x64.exe": {
         "size": 50596640,
         "modification_date": "2024-08-10 11:45:29"
     },
-    "D:\\Games\\RooftopsandAlleys\\RooftopsandAlleys\\Binaries\\Win64\\boost_atomic-mt-x64.dll": {
+    "RooftopsandAlleys\\Binaries\\Win64\\boost_atomic-mt-x64.dll": {
         "size": 33736,
         "modification_date": "2024-08-10 11:45:32"
     },
-    "D:\\Games\\RooftopsandAlleys\\RooftopsandAlleys\\Binaries\\Win64\\boost_chrono-mt-x64.dll": {
+    "RooftopsandAlleys\\Binaries\\Win64\\boost_chrono-mt-x64.dll": {
         "size": 52680,
         "modification_date": "2024-08-10 11:45:35"
     },
-    "D:\\Games\\RooftopsandAlleys\\RooftopsandAlleys\\Binaries\\Win64\\boost_filesystem-mt-x64.dll": {
+    "RooftopsandAlleys\\Binaries\\Win64\\boost_filesystem-mt-x64.dll": {
         "size": 157128,
         "modification_date": "2024-08-10 11:45:31"
     },
-    "D:\\Games\\RooftopsandAlleys\\RooftopsandAlleys\\Binaries\\Win64\\boost_iostreams-mt-x64.dll": {
+    "RooftopsandAlleys\\Binaries\\Win64\\boost_iostreams-mt-x64.dll": {
         "size": 63944,
         "modification_date": "2024-08-10 11:45:38"
     },
-    "D:\\Games\\RooftopsandAlleys\\RooftopsandAlleys\\Binaries\\Win64\\boost_program_options-mt-x64.dll": {
+    "RooftopsandAlleys\\Binaries\\Win64\\boost_program_options-mt-x64.dll": {
         "size": 356808,
         "modification_date": "2024-08-10 11:45:29"
     },
-    "D:\\Games\\RooftopsandAlleys\\RooftopsandAlleys\\Binaries\\Win64\\boost_python39-mt-x64.dll": {
+    "RooftopsandAlleys\\Binaries\\Win64\\boost_python39-mt-x64.dll": {
         "size": 208328,
         "modification_date": "2024-08-10 11:45:35"
     },
-    "D:\\Games\\RooftopsandAlleys\\RooftopsandAlleys\\Binaries\\Win64\\boost_regex-mt-x64.dll": {
+    "RooftopsandAlleys\\Binaries\\Win64\\boost_regex-mt-x64.dll": {
         "size": 244168,
         "modification_date": "2024-08-10 11:45:32"
     },
-    "D:\\Games\\RooftopsandAlleys\\RooftopsandAlleys\\Binaries\\Win64\\boost_system-mt-x64.dll": {
+    "RooftopsandAlleys\\Binaries\\Win64\\boost_system-mt-x64.dll": {
         "size": 26056,
         "modification_date": "2024-08-10 11:45:35"
     },
-    "D:\\Games\\RooftopsandAlleys\\RooftopsandAlleys\\Binaries\\Win64\\boost_thread-mt-x64.dll": {
+    "RooftopsandAlleys\\Binaries\\Win64\\boost_thread-mt-x64.dll": {
         "size": 92104,
         "modification_date": "2024-08-10 11:45:32"
     },
-    "D:\\Games\\RooftopsandAlleys\\RooftopsandAlleys\\Binaries\\Win64\\OpenImageDenoise.dll": {
+    "RooftopsandAlleys\\Binaries\\Win64\\OpenImageDenoise.dll": {
         "size": 49787744,
         "modification_date": "2024-08-10 11:45:29"
     },
-    "D:\\Games\\RooftopsandAlleys\\RooftopsandAlleys\\Binaries\\Win64\\RooftopsandAlleys-Win64-Shipping.exe": {
+    "RooftopsandAlleys\\Binaries\\Win64\\RooftopsandAlleys-Win64-Shipping.exe": {
+        "size": 126721536,
+        "modification_date": "2024-08-17 17:18:38"
+    },
+    "RooftopsandAlleys\\Binaries\\Win64\\RooftopsandAlleys-Win64-Shipping.exe.bak": {
         "size": 126927640,
         "modification_date": "2024-08-10 11:45:29"
     },
-    "D:\\Games\\RooftopsandAlleys\\RooftopsandAlleys\\Binaries\\Win64\\tbb.dll": {
+    "RooftopsandAlleys\\Binaries\\Win64\\tbb.dll": {
         "size": 399816,
         "modification_date": "2024-08-10 11:45:29"
     },
-    "D:\\Games\\RooftopsandAlleys\\RooftopsandAlleys\\Binaries\\Win64\\tbb12.dll": {
+    "RooftopsandAlleys\\Binaries\\Win64\\tbb12.dll": {
         "size": 309704,
         "modification_date": "2024-08-10 11:45:29"
     },
-    "D:\\Games\\RooftopsandAlleys\\RooftopsandAlleys\\Binaries\\Win64\\D3D12\\D3D12Core.dll": {
+    "RooftopsandAlleys\\Binaries\\Win64\\D3D12\\D3D12Core.dll": {
         "size": 5508496,
         "modification_date": "2024-08-10 11:45:29"
     },
-    "D:\\Games\\RooftopsandAlleys\\RooftopsandAlleys\\Content\\Movies\\game-intro.mp4": {
+    "RooftopsandAlleys\\Content\\Movies\\game-intro.mp4": {
         "size": 12620942,
         "modification_date": "2024-08-10 11:45:29"
     },
-    "D:\\Games\\RooftopsandAlleys\\RooftopsandAlleys\\Content\\Paks\\global.ucas": {
+    "RooftopsandAlleys\\Content\\Paks\\global.ucas": {
         "size": 2085696,
         "modification_date": "2024-08-10 11:45:29"
     },
-    "D:\\Games\\RooftopsandAlleys\\RooftopsandAlleys\\Content\\Paks\\global.utoc": {
+    "RooftopsandAlleys\\Content\\Paks\\global.utoc": {
         "size": 587,
         "modification_date": "2024-08-10 11:45:44"
     },
-    "D:\\Games\\RooftopsandAlleys\\RooftopsandAlleys\\Content\\Paks\\RooftopsandAlleys-Windows.pak": {
+    "RooftopsandAlleys\\Content\\Paks\\RooftopsandAlleys-Windows.pak": {
         "size": 10574335,
         "modification_date": "2024-08-10 11:45:29"
     },
-    "D:\\Games\\RooftopsandAlleys\\RooftopsandAlleys\\Content\\Paks\\RooftopsandAlleys-Windows.ucas": {
+    "RooftopsandAlleys\\Content\\Paks\\RooftopsandAlleys-Windows.ucas": {
         "size": 774871360,
         "modification_date": "2024-08-10 11:45:29"
     },
-    "D:\\Games\\RooftopsandAlleys\\RooftopsandAlleys\\Content\\Paks\\RooftopsandAlleys-Windows.utoc": {
+    "RooftopsandAlleys\\Content\\Paks\\RooftopsandAlleys-Windows.utoc": {
         "size": 738118,
         "modification_date": "2024-08-10 11:45:29"
     }
