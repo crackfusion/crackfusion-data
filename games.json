@@ -14,7 +14,7 @@
                 ]
             },
             {
-                "version": "v0.1.6 (old)",
+                "version": "v0.1.6",
                 "date": "2024-05-1",
                 "downloadLinks": [
                     {"host": "Gofile", "url": ""},
@@ -22,14 +22,22 @@
                 ]
             },
             {
-                "version": "v0.2.3 (latest)",
+                "version": "v0.2.3",
                 "date": "2024-07-5",
                 "downloadLinks": [
                     {"host": "Gofile (fast)", "url": "https://filecrypt.co/Container/3CF6909A09.html"},
                     {"host": "Buzzheavier (slower, but forever) ( + TORRENT)", "url": "https://filecrypt.co/Container/3F328E6714.html"},
                     {"host": "Fastupload (fast)", "url": "https://filecrypt.co/Container/BD3AEA1659.html"}
                 ]
+            },
+            {
+                "version": "BUILD: 15328633 | Latest",
+                "date": "2024-08-17",
+                "downloadLinks": [
+                    {"host": "Multiup.io", "url": "https://multiup.io/1e7a319df10b4e7f9669933f09f8d59b"}
+                ]
             }
+
         ],
         "source": "https://store.steampowered.com/app/2703850/Rooftops__Alleys_The_Parkour_Game/",
         "addedDate": "2024-06-25"
