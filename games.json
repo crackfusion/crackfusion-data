@@ -78,7 +78,7 @@
                 "version": "v1.2.5 Hotfix 1",
                 "date": "2024-07-3",
                 "downloadLinks": [
-                    {"host": "Multiup.io", "url": "https://multiup.io/dcaeadba99e0e04b559635faddaeac53"}
+                    {"host": "Multiup.io", "url": "https://multiup.io/1e2732c8b92dd7b0085dbc700b186948"}
                 ]
             }
         ],
@@ -103,7 +103,7 @@
                 "version": "v0.32.5",
                 "date": "2024-08-17",
                 "downloadLinks": [
-                    {"host": "Multiup.io", "url": "https://multiup.io/c9a28a09b0e7c9f1d3666945b09e80d3"}
+                    {"host": "Multiup.io", "url": "https://multiup.io/dcaeadba99e0e04b559635faddaeac53"}
                 ]
             }
         ],
@@ -257,7 +257,7 @@
         "versions": [
             {
                 "version": "Build: 1837531 | Full Version",
-                "date": "2017-01-1",
+                "date": "2017-08-17",
                 "downloadLinks": [
                     {"host": "Multiup.io", "url": "https://multiup.io/48f4d83f5ccf867ab7795eedde29a83a"}
                 ]
