@@ -112,12 +112,12 @@
     },
     {
         "id": "5",
-        "title": "Deep Rock Galactic - Drilling Deeper + Online-Fix",
+        "title": "Deep Rock Galactic + Online-Fix",
         "image": "https://raw.githubusercontent.com/crackfusion/crackfusion-data/main/game-images/drg.jpg",
         "description": "Deep Rock Galactic (DRG) is a cooperative first-person shooter where players take on the roles of badass space dwarves mining for precious resources on hostile alien planets. Armed with an arsenal of high-tech weaponry and specialized tools, players delve into procedurally generated caves filled with dangerous creatures and hidden treasures. Teamwork is key as players must work together to complete missions, gather resources, and survive the perilous depths.",
         "versions": [
             {
-                "version": "Build: 14899096 (Old [MAKE SURE TO SELECT VERSION] )",
+                "version": "Build: 14899096",
                 "date": "2024-07-02",
                 "downloadLinks": [
                     {"host": "Gofile (fastest)", "url": "https://filecrypt.co/Container/F02D460621.html"},
@@ -125,12 +125,10 @@
                 ]
             },
             {
-                "version": "Build: n/a (Newest [Releases soon] )",
-                "date": "2024-07-02",
+                "version": "V: 1.39.101624 | Latest OFX version",
+                "date": "2024-08-17",
                 "downloadLinks": [
-                    {"host": "Gofile (fastest)", "url": ""},
-                    {"host": "Buzzheavier (forever) ( USE FDM )", "url": ""},
-                    {"host": "N/A", "url": "https://crackfusion.xyz/game.html?id=5"}
+                    {"host": "Multiup.io", "url": "https://multiup.io/c2f009fb58625ca4291a01c1b0432276"}
                 ]
             }
         ],
