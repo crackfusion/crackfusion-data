@@ -263,5 +263,22 @@
         ],
         "source": "https://crackfusion.xyz",
         "addedDate": "2024-08-17"
+    },
+    {
+        "id": "13",
+        "title": "Bloodthief: Playtest",
+        "image": "https://raw.githubusercontent.com/crackfusion/crackfusion-data/main/game-images/bloodthiefplaytest.jpg",
+        "description": "Bloodthief is an ultra-fast retro melee experience where you use momentum to skillfully parkour through hazardous dungeons and brutally slash your way through enemies. Speed-run through medieval dungeons and castles and learn what dark secrets lie beneath the surface.",
+        "versions": [
+            {
+                "version": "Build: 1837531 | Full Version",
+                "date": "2024-08-19",
+                "downloadLinks": [
+                    {"host": "Buzzheavier (forever)", "url": "https://buzzheavier.com/f/GVWePkCpAAA"}
+                ]
+            }
+        ],
+        "source": "https://crackfusion.xyz",
+        "addedDate": "2024-08-17"
     }
 ]
