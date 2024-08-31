@@ -278,10 +278,11 @@
                 ]
             },
             {
-                "version": "v0.2.7 | Playtest (LINKS ARE BROKEN)",
+                "version": "v0.2.7 | Playtest",
                 "date": "2024-08-31",
                 "downloadLinks": [
-                    {"host": "PENDING FIX!", "url": "#"}
+                    {"host": "Fastupload", "url": "https://fastupload.io/5ffc5e4598017e62"},
+                    {"host": "Buzzheavier", "url": "https://buzzheavier.com/f/GWVeheTpAAA"}
                 ]
             }
         ],
