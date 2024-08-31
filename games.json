@@ -278,11 +278,10 @@
                 ]
             },
             {
-                "version": "v0.2.7 | Playtest",
+                "version": "v0.2.7 | Playtest (LINKS ARE BROKEN)",
                 "date": "2024-08-31",
                 "downloadLinks": [
-                    {"host": "Buzzheavier (forever)", "url": "https://buzzheavier.com/f/GWTKPjSf0AA"},
-                    {"host": "Fastupload (fast)", "url": "https://fs7.fastupload.io/93fbccfdb910b40c/Bloodthief-Playtest-Crackfusion.xyz.zip?download_token=bee0f96e0b32c6d1193199cec9d956cca1b2104bf5b1765d1b82df7961f7d1ca"}
+                    {"host": "PENDING FIX!", "url": "#"}
                 ]
             }
         ],
