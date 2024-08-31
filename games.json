@@ -271,10 +271,17 @@
         "description": "Bloodthief is an ultra-fast retro melee experience where you use momentum to skillfully parkour through hazardous dungeons and brutally slash your way through enemies. Speed-run through medieval dungeons and castles and learn what dark secrets lie beneath the surface.",
         "versions": [
             {
-                "version": "Build: 1837531 | Full Version",
+                "version": "Build: 1837531 | Playtest",
                 "date": "2024-08-19",
                 "downloadLinks": [
                     {"host": "Buzzheavier (forever)", "url": "https://buzzheavier.com/f/GVWePkCpAAA"}
+                ]
+            },
+            {
+                "version": "v0.2.7 | Playtest",
+                "date": "2024-08-31",
+                "downloadLinks": [
+                    {"host": "Buzzheavier (forever)", "url": "https://buzzheavier.com/f/GWTKPjSf0AA"}
                 ]
             }
         ],
