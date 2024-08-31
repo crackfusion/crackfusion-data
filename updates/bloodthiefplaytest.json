@@ -1,7 +1,7 @@
 {
     "CFU.py": {
-        "size": 3175,
-        "modification_date": "2024-08-17 17:24:24"
+        "size": 3296,
+        "modification_date": "2024-08-31 11:00:17"
     },
     "CFU.txt": {
         "size": 787,
@@ -19,76 +19,48 @@
         "size": 1443,
         "modification_date": "2024-07-05 23:30:24"
     },
-    "Bloodthief Playtest\\bloodthief_v0.01.console.exe": {
-        "size": 504832,
-        "modification_date": "2024-08-19 16:00:01"
+    "Bloodthief\\bloodthief_v0.01.console.exe": {
+        "size": 519168,
+        "modification_date": "2024-08-31 11:01:32"
     },
-    "Bloodthief Playtest\\bloodthief_v0.01.exe": {
-        "size": 55894016,
-        "modification_date": "2024-08-19 16:00:01"
+    "Bloodthief\\bloodthief_v0.01.exe": {
+        "size": 65724416,
+        "modification_date": "2024-08-31 11:01:32"
     },
-    "Bloodthief Playtest\\bloodthief_v0.01.pck": {
-        "size": 689048224,
-        "modification_date": "2024-08-19 16:00:01"
+    "Bloodthief\\bloodthief_v0.01.pck": {
+        "size": 660233136,
+        "modification_date": "2024-08-31 11:01:32"
     },
-    "Bloodthief Playtest\\fmod.dll": {
+    "Bloodthief\\fmod.dll": {
         "size": 1850880,
-        "modification_date": "2024-08-19 16:00:01"
+        "modification_date": "2024-08-31 11:01:32"
     },
-    "Bloodthief Playtest\\fmodstudio.dll": {
+    "Bloodthief\\fmodstudio.dll": {
         "size": 1517568,
-        "modification_date": "2024-08-19 16:00:01"
+        "modification_date": "2024-08-31 11:01:32"
     },
-    "Bloodthief Playtest\\godot-jolt_windows-x64.dll": {
-        "size": 3493480,
-        "modification_date": "2024-08-19 16:00:01"
+    "Bloodthief\\godot-jolt_windows-x64.dll": {
+        "size": 3523184,
+        "modification_date": "2024-08-31 11:01:32"
     },
-    "Bloodthief Playtest\\godotsteam.x86_64.dll": {
+    "Bloodthief\\godotsteam.x86_64.dll": {
         "size": 2538496,
-        "modification_date": "2024-08-19 16:00:01"
+        "modification_date": "2024-08-31 11:01:32"
     },
-    "Bloodthief Playtest\\libfmod.windows.template_release.dll": {
+    "Bloodthief\\libfmod.windows.template_release.dll": {
         "size": 1795584,
-        "modification_date": "2024-08-19 16:00:01"
+        "modification_date": "2024-08-31 11:01:32"
     },
-    "Bloodthief Playtest\\libterrain.windows.release.x86_64.dll": {
+    "Bloodthief\\libterrain.windows.release.x86_64.dll": {
         "size": 3302912,
-        "modification_date": "2024-08-19 16:00:01"
+        "modification_date": "2024-08-31 11:01:32"
     },
-    "Bloodthief Playtest\\steam_api64.dll": {
-        "size": 1831936,
-        "modification_date": "2024-08-19 16:00:36"
-    },
-    "Bloodthief Playtest\\steam_api64.dll.bak": {
+    "Bloodthief\\steam_api64.dll": {
         "size": 301928,
-        "modification_date": "2024-08-19 16:00:01"
+        "modification_date": "2024-08-31 11:01:32"
     },
-    "Bloodthief Playtest\\steam_settings\\achievements.json": {
-        "size": 0,
-        "modification_date": "2024-08-19 16:01:15"
-    },
-    "Bloodthief Playtest\\steam_settings\\DLC.txt": {
-        "size": 0,
-        "modification_date": "2024-08-19 16:01:15"
-    },
-    "Bloodthief Playtest\\steam_settings\\steam_appid.txt": {
-        "size": 7,
-        "modification_date": "2024-08-19 16:01:14"
-    },
-    "Bloodthief Playtest\\steam_settings\\settings\\account_name.txt": {
-        "size": 3,
-        "modification_date": "2024-08-19 16:01:15"
-    },
-    "Bloodthief Playtest\\steam_settings\\settings\\language.txt": {
-        "size": 7,
-        "modification_date": "2024-08-19 16:01:15"
-    },
-    "Bloodthief Playtest\\steam_settings\\settings\\listen_port.txt": {
-        "size": 5,
-        "modification_date": "2024-08-19 16:01:15"
-    },
-    "Bloodthief Playtest\\steam_settings\\settings\\user_steam_id.txt": {
-        "size": 17,
-        "modification_date": "2024-08-19 16:01:15"
+    "Bloodthief\\updatecheckerinfo.json": {
+        "size": 1166,
+        "modification_date": "2024-08-31 10:58:50"
     }
 }
