@@ -52,8 +52,7 @@
                 "version": "v1.0",
                 "date": "2024-06-20",
                 "downloadLinks": [
-                    {"host": "Gofile", "url": "https://gofile.io/d/61cdd89f-4c24-4b8b-9f7c-07b1b95cf6d1"},
-                    {"host": "Fastupload", "url": ""}
+                    {"host": "UPDATE PENDING", "url": "#"}
                 ]
             }
         ],
@@ -288,5 +287,23 @@
         ],
         "source": "https://crackfusion.xyz",
         "addedDate": "2024-08-17"
+    },
+    {
+        "id": "14",
+        "title": "Lethal Company + Online-fix",
+        "image": "https://raw.githubusercontent.com/crackfusion/crackfusion-data/main/game-images/lethal-company.jpg",
+        "description": "You are a contracted worker for the Company. Your job is to collect scrap from abandoned, industrialized moons to meet the Company's profit quota. You can use the cash you earn to travel to new moons with higher risks and rewards--or you can buy fancy suits and decorations for your ship. Experience nature, scanning any creature you find to add them to your bestiary. Explore the wondrous outdoors and rummage through their derelict, steel and concrete underbellies. Just never miss the quota.",
+        "versions": [
+            {
+                "version": "v62",
+                "date": "2024-08-31",
+                "downloadLinks": [
+                    {"host": "Buzzheavier", "url": "https://buzzheavier.com/f/GWVidY_pAAA"},
+                    {"host": "Fastupload", "url": "https://fastupload.io/be62307c2babccd9"}
+                ]
+            }
+        ],
+        "source": "https://crackfusion.xyz",
+        "addedDate": "2024-08-31"
     }
 ]
