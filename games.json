@@ -309,7 +309,8 @@
     {
         "id": "exo-one",
         "title": "Exo One",
-        "image": "A strange signal... an alien craft... an interplanetary, gravity-defying journey through space and time.",
+        "image": "https://raw.githubusercontent.com/crackfusion/crackfusion-data/main/game-images/exo-one.jpg",
+        "description": "A strange signal... an alien craft... an interplanetary, gravity-defying journey through space and time.",
         "versions": [
             {
                 "version": "v62",
