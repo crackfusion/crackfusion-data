@@ -305,5 +305,21 @@
         ],
         "source": "https://crackfusion.xyz",
         "addedDate": "2024-08-31"
+    },
+    {
+        "id": "exo-one",
+        "title": "Exo One",
+        "image": "A strange signal... an alien craft... an interplanetary, gravity-defying journey through space and time.",
+        "versions": [
+            {
+                "version": "v62",
+                "date": "2024-09-01",
+                "downloadLinks": [
+                    {"host": "Multiup", "url": "https://multiup.io/en/mirror/b6a70336185a0f75659f97c9a0f000c6"}
+                ]
+            }
+        ],
+        "source": "https://www.youtube.com/watch?v=q88hPoQWX6A",
+        "addedDate": "2024-09-01"
     }
 ]
