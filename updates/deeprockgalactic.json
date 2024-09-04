@@ -1,0 +1,378 @@
+{
+    "CFU.exe": {
+        "size": 10023424,
+        "modification_date": "2024-09-04 12:11:57"
+    },
+    "CFU.txt": {
+        "size": 787,
+        "modification_date": "2024-08-17 16:56:00"
+    },
+    "Crackfusion.xyz - The new ready to play..url": {
+        "size": 137,
+        "modification_date": "2024-08-17 16:27:44"
+    },
+    "create.py": {
+        "size": 1048,
+        "modification_date": "2024-08-17 17:33:13"
+    },
+    "FSD.exe": {
+        "size": 498176,
+        "modification_date": "2024-06-19 11:46:38"
+    },
+    "Manifest_DebugFiles_Win64.txt": {
+        "size": 1117,
+        "modification_date": "2024-06-19 11:46:37"
+    },
+    "Manifest_NonUFSFiles_Win64.txt": {
+        "size": 5908,
+        "modification_date": "2024-06-19 11:46:37"
+    },
+    "ModIOAuth.exe": {
+        "size": 17555042,
+        "modification_date": "2022-01-21 00:07:24"
+    },
+    "OnlineFix.json": {
+        "size": 137,
+        "modification_date": "2022-01-27 06:44:49"
+    },
+    "Read_Me_Instructions.txt": {
+        "size": 1443,
+        "modification_date": "2024-07-05 23:30:24"
+    },
+    "Engine\\Binaries\\ThirdParty\\DbgHelp\\dbghelp.dll": {
+        "size": 1868736,
+        "modification_date": "2024-06-19 11:46:40"
+    },
+    "Engine\\Binaries\\ThirdParty\\HLMediaLibrary\\Windows\\Release\\x64\\HLMediaLibrary.dll": {
+        "size": 113664,
+        "modification_date": "2024-06-19 11:46:37"
+    },
+    "Engine\\Binaries\\ThirdParty\\NVIDIA\\GeForceNOW\\Win64\\GfnRuntimeSdk.dll": {
+        "size": 3212640,
+        "modification_date": "2024-06-19 11:46:40"
+    },
+    "Engine\\Binaries\\ThirdParty\\NVIDIA\\NVaftermath\\Win64\\GFSDK_Aftermath_Lib.x64.dll": {
+        "size": 1425920,
+        "modification_date": "2024-06-19 11:46:40"
+    },
+    "Engine\\Binaries\\ThirdParty\\Oculus\\OVRPlugin\\OVRPlugin\\Win64\\OVRPlugin.dll": {
+        "size": 4140240,
+        "modification_date": "2024-06-19 11:46:40"
+    },
+    "Engine\\Binaries\\ThirdParty\\Ogg\\Win64\\VS2015\\libogg_64.dll": {
+        "size": 49152,
+        "modification_date": "2024-06-19 11:46:37"
+    },
+    "Engine\\Binaries\\ThirdParty\\OpenVR\\OpenVRv1_5_17\\Win64\\openvr_api.dll": {
+        "size": 597792,
+        "modification_date": "2024-06-19 11:46:38"
+    },
+    "Engine\\Binaries\\ThirdParty\\OpenXR\\win64\\openxr_loader.dll": {
+        "size": 622592,
+        "modification_date": "2024-06-19 11:46:38"
+    },
+    "Engine\\Binaries\\ThirdParty\\PhysX3\\Win64\\VS2015\\ApexFramework_x64.dll": {
+        "size": 1043968,
+        "modification_date": "2024-06-19 11:46:39"
+    },
+    "Engine\\Binaries\\ThirdParty\\PhysX3\\Win64\\VS2015\\APEX_Clothing_x64.dll": {
+        "size": 1219072,
+        "modification_date": "2024-06-19 11:46:40"
+    },
+    "Engine\\Binaries\\ThirdParty\\PhysX3\\Win64\\VS2015\\APEX_Legacy_x64.dll": {
+        "size": 3329536,
+        "modification_date": "2024-06-19 11:46:40"
+    },
+    "Engine\\Binaries\\ThirdParty\\PhysX3\\Win64\\VS2015\\NvCloth_x64.dll": {
+        "size": 265728,
+        "modification_date": "2024-06-19 11:46:37"
+    },
+    "Engine\\Binaries\\ThirdParty\\PhysX3\\Win64\\VS2015\\PhysX3Common_x64.dll": {
+        "size": 1598976,
+        "modification_date": "2024-06-19 11:46:40"
+    },
+    "Engine\\Binaries\\ThirdParty\\PhysX3\\Win64\\VS2015\\PhysX3Cooking_x64.dll": {
+        "size": 244736,
+        "modification_date": "2024-06-19 11:46:37"
+    },
+    "Engine\\Binaries\\ThirdParty\\PhysX3\\Win64\\VS2015\\PhysX3_x64.dll": {
+        "size": 2105344,
+        "modification_date": "2024-06-19 11:46:40"
+    },
+    "Engine\\Binaries\\ThirdParty\\PhysX3\\Win64\\VS2015\\PxFoundation_x64.dll": {
+        "size": 54784,
+        "modification_date": "2024-06-19 11:46:37"
+    },
+    "Engine\\Binaries\\ThirdParty\\PhysX3\\Win64\\VS2015\\PxPvdSDK_x64.dll": {
+        "size": 188928,
+        "modification_date": "2024-06-19 11:46:37"
+    },
+    "Engine\\Binaries\\ThirdParty\\Steamworks\\Steamv151\\Win64\\OnlineFix.ini": {
+        "size": 961,
+        "modification_date": "2024-06-19 11:59:14"
+    },
+    "Engine\\Binaries\\ThirdParty\\Steamworks\\Steamv151\\Win64\\OnlineFix.url": {
+        "size": 46,
+        "modification_date": "2019-09-23 18:43:58"
+    },
+    "Engine\\Binaries\\ThirdParty\\Steamworks\\Steamv151\\Win64\\OnlineFix64.dll": {
+        "size": 11979776,
+        "modification_date": "2024-03-29 12:30:49"
+    },
+    "Engine\\Binaries\\ThirdParty\\Steamworks\\Steamv151\\Win64\\steam_api64.dll": {
+        "size": 265504,
+        "modification_date": "2022-05-04 12:52:20"
+    },
+    "Engine\\Binaries\\ThirdParty\\Steamworks\\Steamv151\\Win64\\steam_api64.of": {
+        "size": 265504,
+        "modification_date": "2022-05-04 12:43:57"
+    },
+    "Engine\\Binaries\\ThirdParty\\Vorbis\\Win64\\VS2015\\libvorbisfile_64.dll": {
+        "size": 37888,
+        "modification_date": "2024-06-19 11:46:37"
+    },
+    "Engine\\Binaries\\ThirdParty\\Vorbis\\Win64\\VS2015\\libvorbis_64.dll": {
+        "size": 1714176,
+        "modification_date": "2024-06-19 11:46:40"
+    },
+    "Engine\\Binaries\\ThirdParty\\Windows\\XAudio2_9\\x64\\xaudio2_9redist.dll": {
+        "size": 847440,
+        "modification_date": "2024-06-19 11:46:39"
+    },
+    "Engine\\Binaries\\Win64\\CrashReportClient.exe": {
+        "size": 19542528,
+        "modification_date": "2024-06-19 11:46:40"
+    },
+    "Engine\\Content\\SlateDebug\\Fonts\\LastResort.tps": {
+        "size": 930,
+        "modification_date": "2024-06-19 11:46:37"
+    },
+    "Engine\\Content\\SlateDebug\\Fonts\\LastResort.ttf": {
+        "size": 5395052,
+        "modification_date": "2024-06-19 11:46:40"
+    },
+    "Engine\\Extras\\Redist\\en-us\\UE4PrereqSetup_x64.exe": {
+        "size": 41033784,
+        "modification_date": "2024-06-19 11:46:41"
+    },
+    "Engine\\Plugins\\Runtime\\Nvidia\\Streamline\\Binaries\\ThirdParty\\Win64\\nvngx_dlssg.dll": {
+        "size": 11698216,
+        "modification_date": "2024-06-19 11:46:41"
+    },
+    "Engine\\Plugins\\Runtime\\Nvidia\\Streamline\\Binaries\\ThirdParty\\Win64\\sl.common.dll": {
+        "size": 643552,
+        "modification_date": "2024-06-19 11:46:38"
+    },
+    "Engine\\Plugins\\Runtime\\Nvidia\\Streamline\\Binaries\\ThirdParty\\Win64\\sl.dlss_g.dll": {
+        "size": 403424,
+        "modification_date": "2024-06-19 11:46:38"
+    },
+    "Engine\\Plugins\\Runtime\\Nvidia\\Streamline\\Binaries\\ThirdParty\\Win64\\sl.interposer.dll": {
+        "size": 519648,
+        "modification_date": "2024-06-19 11:46:38"
+    },
+    "Engine\\Plugins\\Runtime\\Nvidia\\Streamline\\Binaries\\ThirdParty\\Win64\\sl.reflex.dll": {
+        "size": 175576,
+        "modification_date": "2024-06-19 11:46:37"
+    },
+    "Engine\\Programs\\CrashReportClient\\Content\\Paks\\CrashReportClient.pak": {
+        "size": 21268961,
+        "modification_date": "2024-06-19 11:46:41"
+    },
+    "FSD\\Binaries\\Win64\\FSD-Win64-Shipping.exe": {
+        "size": 108941824,
+        "modification_date": "2024-06-19 11:46:42"
+    },
+    "FSD\\Binaries\\Win64\\OpenImageDenoise.dll": {
+        "size": 49771408,
+        "modification_date": "2024-06-19 11:46:42"
+    },
+    "FSD\\Binaries\\Win64\\tbb12.dll": {
+        "size": 383856,
+        "modification_date": "2024-06-19 11:46:38"
+    },
+    "FSD\\Content\\Movies\\CharacterSelectionVignet_Driller_01_540.mp4": {
+        "size": 32848087,
+        "modification_date": "2024-06-19 11:46:53"
+    },
+    "FSD\\Content\\Movies\\CharacterSelectionVignet_Engineer_04_540.mp4": {
+        "size": 47061607,
+        "modification_date": "2024-06-19 11:46:55"
+    },
+    "FSD\\Content\\Movies\\CharacterSelectionVignet_Gunner_01_540.mp4": {
+        "size": 41605144,
+        "modification_date": "2024-06-19 11:46:55"
+    },
+    "FSD\\Content\\Movies\\CharacterSelectionVignet_Scout_01_540.mp4": {
+        "size": 38185462,
+        "modification_date": "2024-06-19 11:46:55"
+    },
+    "FSD\\Content\\Movies\\DRG_Loading_720p30.mp4": {
+        "size": 18910267,
+        "modification_date": "2024-06-19 11:46:56"
+    },
+    "FSD\\Content\\Movies\\DRG_LogoIntro 720p30.mp4": {
+        "size": 4873431,
+        "modification_date": "2024-06-19 11:46:55"
+    },
+    "FSD\\Content\\Movies\\DRG_LogoIntro_Lower_Sound_720p30.mp4": {
+        "size": 5000845,
+        "modification_date": "2024-06-19 11:46:55"
+    },
+    "FSD\\Content\\Movies\\DeepDives_Biomes\\Bioms_Videos_AzureWeald_01.mp4": {
+        "size": 36457702,
+        "modification_date": "2024-06-19 11:46:43"
+    },
+    "FSD\\Content\\Movies\\DeepDives_Biomes\\Bioms_Videos_CrystalCaves_1.mp4": {
+        "size": 30462382,
+        "modification_date": "2024-06-19 11:46:43"
+    },
+    "FSD\\Content\\Movies\\DeepDives_Biomes\\Bioms_Videos_DenseBiomZone_7_RSZ_Adjust.mp4": {
+        "size": 25150006,
+        "modification_date": "2024-06-19 11:46:43"
+    },
+    "FSD\\Content\\Movies\\DeepDives_Biomes\\Bioms_Videos_Fungus_03_Adjust.mp4": {
+        "size": 25424272,
+        "modification_date": "2024-06-19 11:46:44"
+    },
+    "FSD\\Content\\Movies\\DeepDives_Biomes\\Bioms_Videos_GlacialStrata_2.mp4": {
+        "size": 33868270,
+        "modification_date": "2024-06-19 11:46:44"
+    },
+    "FSD\\Content\\Movies\\DeepDives_Biomes\\Bioms_Videos_Hollowbough.mp4": {
+        "size": 37645549,
+        "modification_date": "2024-06-19 11:46:45"
+    },
+    "FSD\\Content\\Movies\\DeepDives_Biomes\\Bioms_Videos_Magma_3_Adjust.mp4": {
+        "size": 30475543,
+        "modification_date": "2024-06-19 11:46:45"
+    },
+    "FSD\\Content\\Movies\\DeepDives_Biomes\\Bioms_Videos_RadioactiveZone_02_adjust.mp4": {
+        "size": 22504710,
+        "modification_date": "2024-06-19 11:46:45"
+    },
+    "FSD\\Content\\Movies\\DeepDives_Biomes\\Bioms_Videos_SaltPits_New.mp4": {
+        "size": 23800867,
+        "modification_date": "2024-06-19 11:46:46"
+    },
+    "FSD\\Content\\Movies\\DeepDives_Biomes\\Bioms_Videos_SandblastedCorridors_3_BrightnessUp_adjustcolor.mp4": {
+        "size": 25906254,
+        "modification_date": "2024-06-19 11:46:46"
+    },
+    "FSD\\Content\\Movies\\DLC\\DLC - Supporter 480p Menu version.mp4": {
+        "size": 43703613,
+        "modification_date": "2024-06-19 11:46:46"
+    },
+    "FSD\\Content\\Movies\\DLC\\DLC - Supporter II Upgrade 480p Menu version.mp4": {
+        "size": 30817257,
+        "modification_date": "2024-06-19 11:46:47"
+    },
+    "FSD\\Content\\Movies\\DLC\\DLC01 - DarkFuture Pack 480p Menu version.mp4": {
+        "size": 32902597,
+        "modification_date": "2024-06-19 11:46:47"
+    },
+    "FSD\\Content\\Movies\\DLC\\DLC02 - Megacorp 480p Menu version.mp4": {
+        "size": 30337933,
+        "modification_date": "2024-06-19 11:46:48"
+    },
+    "FSD\\Content\\Movies\\DLC\\DLC03 - Rougneck 480p Menu version.mp4": {
+        "size": 44703648,
+        "modification_date": "2024-06-19 11:46:48"
+    },
+    "FSD\\Content\\Movies\\DLC\\DLC04 - DawnOfDread 480p Menu version.mp4": {
+        "size": 45090017,
+        "modification_date": "2024-06-19 11:46:49"
+    },
+    "FSD\\Content\\Movies\\DLC\\DLC05 - RivalTech Trailer 480p Menu version.mp4": {
+        "size": 49417824,
+        "modification_date": "2024-06-19 11:46:50"
+    },
+    "FSD\\Content\\Movies\\DLC\\DLC06 - Robot Rebellion Pack 480p Menu version.mp4": {
+        "size": 40452645,
+        "modification_date": "2024-06-19 11:46:50"
+    },
+    "FSD\\Content\\Movies\\DLC\\DLC07 - PlagueFall Pack InGame 480p.mp4": {
+        "size": 48654316,
+        "modification_date": "2024-06-19 11:46:51"
+    },
+    "FSD\\Content\\Movies\\DLC\\DLC09_-_Decontaminator_480p_Menu_Version.mp4": {
+        "size": 50119653,
+        "modification_date": "2024-06-19 11:46:51"
+    },
+    "FSD\\Content\\Movies\\DLC\\DLC10_OrderOfTheDeep_480p_MenuVersion.mp4": {
+        "size": 32290116,
+        "modification_date": "2024-06-19 11:46:52"
+    },
+    "FSD\\Content\\Movies\\DrgSurvivor\\DRGS_ReleaseDateTrailer_480p_sml.mp4": {
+        "size": 49989508,
+        "modification_date": "2024-06-19 11:46:53"
+    },
+    "FSD\\Content\\Paks\\FSD-WindowsNoEditor.pak": {
+        "size": 2213174663,
+        "modification_date": "2024-06-19 11:47:22"
+    },
+    "FSD\\Content\\Splash\\Splash.bmp": {
+        "size": 360056,
+        "modification_date": "2024-06-19 11:46:38"
+    },
+    "FSD\\Platforms\\Windows\\Plugins\\RunTime\\DiscordSDK\\Source\\DiscordSDK\\ThirdParty\\Win64\\discord_game_sdk.dll": {
+        "size": 3891512,
+        "modification_date": "2024-06-19 11:47:22"
+    },
+    "FSD\\Plugins\\Nvidia\\DLSS\\Binaries\\ThirdParty\\Win64\\nvngx_dlss.dll": {
+        "size": 14452944,
+        "modification_date": "2024-06-19 11:47:22"
+    },
+    "FSD\\Plugins\\Nvidia\\FSDAnsel\\Binaries\\ThirdParty\\AnselSDK64.dll": {
+        "size": 662368,
+        "modification_date": "2024-06-19 11:46:38"
+    },
+    "PipelineCaches\\ShaderStableInfo-FSD-PCD3D_SM5.shk": {
+        "size": 2754428,
+        "modification_date": "2024-06-19 11:47:22"
+    },
+    "PipelineCaches\\ShaderStableInfo-Global-PCD3D_SM5.shk": {
+        "size": 130615,
+        "modification_date": "2024-06-19 11:46:37"
+    },
+    "_CommonRedist\\vcredist\\2015\\installscript.vdf": {
+        "size": 923,
+        "modification_date": "2024-06-19 11:46:37"
+    },
+    "_CommonRedist\\vcredist\\2015\\Microsoft Visual C++ 2015 x64.cmd": {
+        "size": 121,
+        "modification_date": "2024-06-19 11:46:37"
+    },
+    "_CommonRedist\\vcredist\\2015\\Microsoft Visual C++ 2015 x86.cmd": {
+        "size": 117,
+        "modification_date": "2024-06-19 11:46:37"
+    },
+    "_CommonRedist\\vcredist\\2015\\vc_redist.x64.exe": {
+        "size": 15301888,
+        "modification_date": "2024-06-19 11:46:40"
+    },
+    "_CommonRedist\\vcredist\\2015\\vc_redist.x86.exe": {
+        "size": 14456872,
+        "modification_date": "2024-06-19 11:46:40"
+    },
+    "_CommonRedist\\vcredist\\2019\\installscript.vdf": {
+        "size": 907,
+        "modification_date": "2024-06-19 11:46:37"
+    },
+    "_CommonRedist\\vcredist\\2019\\Microsoft Visual C++ 2019 x64.cmd": {
+        "size": 121,
+        "modification_date": "2024-06-19 11:46:37"
+    },
+    "_CommonRedist\\vcredist\\2019\\Microsoft Visual C++ 2019 x86.cmd": {
+        "size": 121,
+        "modification_date": "2024-06-19 11:46:37"
+    },
+    "_CommonRedist\\vcredist\\2019\\VC_redist.x64.exe": {
+        "size": 14882584,
+        "modification_date": "2024-06-19 11:46:40"
+    },
+    "_CommonRedist\\vcredist\\2019\\VC_redist.x86.exe": {
+        "size": 14328440,
+        "modification_date": "2024-06-19 11:46:40"
+    }
+}

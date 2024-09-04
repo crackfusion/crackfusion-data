@@ -14,7 +14,7 @@
                 ]
             },
             {
-                "version": "v0.1.6",
+                "version": "V: 0.1.6",
                 "date": "2024-05-1",
                 "downloadLinks": [
                     {"host": "Gofile", "url": ""},
@@ -22,7 +22,7 @@
                 ]
             },
             {
-                "version": "v0.2.3",
+                "version": "V: 0.2.3",
                 "date": "2024-07-5",
                 "downloadLinks": [
                     {"host": "Gofile (fast)", "url": "https://filecrypt.co/Container/3CF6909A09.html"},
@@ -49,14 +49,14 @@
         "description": "Welcome to Brighton! Join the police force of this fictitious American city and experience the day to day life of a Police Officer. Start with citing violations and giving out parking tickets, then work your way towards shouldering more responsibilities. Be part of the community of Brighton, get to know your neighborhood and handle daily police work to fight crime during your shift. Always be tough, but fair: respect the law and gain more experience to unlock more neighborhoods, districts and duties.",
         "versions": [
             {
-                "version": "v1.0",
+                "version": "V: 1.0",
                 "date": "2024-06-20",
                 "downloadLinks": [
                     {"host": "Unavailable", "url": "#"}
                 ]
             },
             {
-                "version": "v14.4.4",
+                "version": "V: 14.4.4",
                 "date": "2024-09-02",
                 "downloadLinks": [
                     {"host": "Buzzheavier (Use fdm)", "url": "https://buzzheavier.com/f/GWe6hvaf0AA"},
@@ -74,7 +74,7 @@
         "description": "Bodycam is a new, ultra-realistic multiplayer first-person shooter (FPS) game built on the powerful Unreal Engine 5. It stands out for its innovative approach to FPS gaming, simulating the perspective and visual effects of police body camera footage. This includes a limited field of view, camera shake, and distortion, adding a unique layer of immersion and intensity to the gameplay.",
         "versions": [
             {
-                "version": "v1.0",
+                "version": "V: 1.0",
                 "date": "2024-06-15",
                 "downloadLinks": [
                     {"host": "Gofile", "url": "https://gofile.io/d/80y7Yp"},
@@ -99,7 +99,7 @@
         "description": "BeamNG.drive is a realistic vehicle simulation game known for its soft-body physics engine, enabling incredibly detailed and dynamic crashes and deformations. Players can explore a variety of environments with a wide range of vehicles, from everyday cars to heavy-duty trucks and even off-road vehicles. The game offers diverse gameplay options, from free-roaming exploration and experimentation to scenario-based challenges and time trials.",
         "versions": [
             {
-                "version": "v0.32",
+                "version": "V: 0.32",
                 "date": "2024-06-30",
                 "downloadLinks": [
                     {"host": "Buzzheavier", "url": ""},
@@ -107,7 +107,7 @@
                 ]
             },
             {
-                "version": "v0.32.5",
+                "version": "V: 0.32.5",
                 "date": "2024-08-17",
                 "downloadLinks": [
                     {"host": "Multiup.io", "url": "https://multiup.io/dcaeadba99e0e04b559635faddaeac53"}
@@ -132,10 +132,11 @@
                 ]
             },
             {
-                "version": "V: 1.39.101624 | Latest OFX version",
+                "version": "V: 1.39.101624 | Latest Online-Fix",
                 "date": "2024-08-17",
                 "downloadLinks": [
-                    {"host": "Multiup.io", "url": "https://multiup.io/c2f009fb58625ca4291a01c1b0432276"}
+                    {"host": "Buzzheavier (Use fdm)", "url": "https://buzzheavier.com/f/GWoA2nxpAAA"},
+                    {"host": "Fastupload", "url": "https://fastupload.io/fb3467406013fc00"}
                 ]
             }
         ],
@@ -149,7 +150,7 @@
         "description": "WorldBox is a god simulator where you create and interact with a pixel world. You can shape the land, populate it with various creatures, and trigger natural disasters or even unleash powerful beings. The game allows for experimentation and emergent storytelling as you observe how different elements interact and influence the world you've created.",
         "versions": [
             {
-                "version": "v0.22.9",
+                "version": "V: 0.22.9",
                 "date": "2024-07-01",
                 "downloadLinks": [
                     {"host": "Gofile (fastest)", "url": "https://filecrypt.co/Container/7E4556D138.html"},
@@ -167,7 +168,7 @@
         "description": "Forget everything you know about being nice, because this game is your virtual sandbox of chaotic creativity. Want to see what happens when you launch a person from a catapult wearing a jetpack? Go ahead! Fancy building a domino chain of explosives with unsuspecting stick figures? Knock yourself out!",
         "versions": [
             {
-                "version": "v1.27 patch 5",
+                "version": "V: 1.27 patch 5",
                 "date": "2024-07-05",
                 "downloadLinks": [
                     {"host": "Gofile (fastest)", "url": ""},
@@ -186,7 +187,7 @@
         "description": "Cities: Skylines is a modern take on the classic city simulation. The game introduces new game play elements to realize the thrill and hardships of creating and maintaining a real city whilst expanding on some well-established tropes of the city building experience.",
         "versions": [
             {
-                "version": "v1.17.1-f4 (Latest)",
+                "version": "V: 1.17.1-f4 (Latest)",
                 "date": "2024-07-06",
                 "downloadLinks": [
                     {"host": "Gofile (fastest)", "url": "https://gofile.io/d/ZmwW3Z"},
@@ -206,7 +207,7 @@
         "description": "ULTRAKILL is a fast-paced, ultra-violent first-person shooter that revels in its over-the-top gore and stylish action. Players take on the role of a machine tasked with killing hordes of demons in creative and brutal ways, utilizing a variety of unique weapons and abilities. The game features a distinct retro-inspired aesthetic and a pumping soundtrack that complements the frenetic gameplay. ULTRAKILL also rewards stylish kills and skillful movement, encouraging players to experimentand find their own flow in the midst of the carnage.",
         "versions": [
             {
-                "version": "BETA",
+                "version": "V: BETA",
                 "date": "2024-07-10",
                 "downloadLinks": [
                     {"host": "Gofile (fastest)", "url": "https://gofile.io/d/V7nLd5"},
@@ -226,7 +227,7 @@
         "description": "An atmospheric first-person survival shooter game in which you take on the role of Special Agent Aiden Clark and embark on a deadly mission into an underground laboratory to destroy a biological threat and extract a pathogen sample.",
         "versions": [
             {
-                "version": "v1.0.0.8 | Full Version",
+                "version": "V: 1.0.0.8 | Full Version",
                 "date": "2024-08-11",
                 "downloadLinks": [
                     {"host": "FLASHBANG (forever)", "url": "https://flashbang.sh/f/GUtGpVNB8AA"},
@@ -285,7 +286,7 @@
                 ]
             },
             {
-                "version": "v0.2.7 | Playtest",
+                "version": "V: 0.2.7 | Playtest",
                 "date": "2024-08-31",
                 "downloadLinks": [
                     {"host": "Fastupload", "url": "https://fastupload.io/5ffc5e4598017e62"},
@@ -303,7 +304,7 @@
         "description": "You are a contracted worker for the Company. Your job is to collect scrap from abandoned, industrialized moons to meet the Company's profit quota. You can use the cash you earn to travel to new moons with higher risks and rewards--or you can buy fancy suits and decorations for your ship. Experience nature, scanning any creature you find to add them to your bestiary. Explore the wondrous outdoors and rummage through their derelict, steel and concrete underbellies. Just never miss the quota.",
         "versions": [
             {
-                "version": "v62",
+                "version": "V: 62",
                 "date": "2024-08-31",
                 "downloadLinks": [
                     {"host": "Buzzheavier", "url": "https://buzzheavier.com/f/GWVidY_pAAA"},
@@ -321,7 +322,7 @@
         "description": "A strange signal... an alien craft... an interplanetary, gravity-defying journey through space and time.",
         "versions": [
             {
-                "version": "v24.03.26.1626",
+                "version": "V: 24.03.26.1626",
                 "date": "2024-09-01",
                 "downloadLinks": [
                     {"host": "Multiup", "url": "https://multiup.io/en/mirror/b6a70336185a0f75659f97c9a0f000c6"}
