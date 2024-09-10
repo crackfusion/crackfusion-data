@@ -1,0 +1,126 @@
+{
+    "CFU.exe": {
+        "size": 10022912,
+        "modification_date": "2024-09-10 18:21:35"
+    },
+    "CFU.txt": {
+        "size": 787,
+        "modification_date": "2024-08-17 16:56:00"
+    },
+    "Crackfusion.xyz - The new ready to play..url": {
+        "size": 137,
+        "modification_date": "2024-08-17 16:27:44"
+    },
+    "create.py": {
+        "size": 1048,
+        "modification_date": "2024-08-17 17:33:13"
+    },
+    "DrugLordTycoon.exe": {
+        "size": 168960,
+        "modification_date": "2024-07-31 14:20:06"
+    },
+    "Manifest_NonUFSFiles_Win64.txt": {
+        "size": 1504,
+        "modification_date": "2024-07-31 14:20:16"
+    },
+    "Manifest_UFSFiles_Win64.txt": {
+        "size": 1575415,
+        "modification_date": "2024-07-31 14:20:06"
+    },
+    "Read_Me_Instructions.txt": {
+        "size": 1443,
+        "modification_date": "2024-07-05 23:30:24"
+    },
+    "DrugLordTycoon\\Binaries\\Win64\\DrugLordTycoon-Win64-Shipping.exe": {
+        "size": 134421504,
+        "modification_date": "2024-07-31 14:58:44"
+    },
+    "DrugLordTycoon\\Binaries\\Win64\\DrugLordTycoon-Win64-Shipping.exe.bak": {
+        "size": 134621928,
+        "modification_date": "2024-07-31 14:20:06"
+    },
+    "DrugLordTycoon\\Binaries\\Win64\\OpenImageDenoise.dll": {
+        "size": 49793152,
+        "modification_date": "2024-07-31 14:20:06"
+    },
+    "DrugLordTycoon\\Binaries\\Win64\\tbb.dll": {
+        "size": 234736,
+        "modification_date": "2024-07-31 14:20:08"
+    },
+    "DrugLordTycoon\\Binaries\\Win64\\tbb12.dll": {
+        "size": 314608,
+        "modification_date": "2024-07-31 14:20:06"
+    },
+    "DrugLordTycoon\\Binaries\\Win64\\tbbmalloc.dll": {
+        "size": 76528,
+        "modification_date": "2024-07-31 14:20:14"
+    },
+    "DrugLordTycoon\\Binaries\\Win64\\D3D12\\D3D12Core.dll": {
+        "size": 5929640,
+        "modification_date": "2024-07-31 14:20:06"
+    },
+    "DrugLordTycoon\\Binaries\\Win64\\D3D12\\d3d12SDKLayers.dll": {
+        "size": 9546512,
+        "modification_date": "2024-07-31 14:20:06"
+    },
+    "DrugLordTycoon\\Binaries\\Win64\\Profile\\STEAMRIP\\SteamUserID.cfg": {
+        "size": 61,
+        "modification_date": "2024-09-10 17:56:21"
+    },
+    "DrugLordTycoon\\Binaries\\Win64\\Profile\\VALVE\\SteamUserID.cfg": {
+        "size": 61,
+        "modification_date": "2024-07-31 15:02:34"
+    },
+    "DrugLordTycoon\\Content\\Paks\\DrugLordTycoon-Windows.pak": {
+        "size": 367559587,
+        "modification_date": "2024-07-31 14:20:06"
+    },
+    "Engine\\Binaries\\ThirdParty\\DbgHelp\\dbghelp.dll": {
+        "size": 2243216,
+        "modification_date": "2024-07-31 14:20:06"
+    },
+    "Engine\\Binaries\\ThirdParty\\MsQuic\\v220\\win64\\msquic.dll": {
+        "size": 2557608,
+        "modification_date": "2024-07-31 14:20:06"
+    },
+    "Engine\\Binaries\\ThirdParty\\NVIDIA\\NVaftermath\\Win64\\GFSDK_Aftermath_Lib.x64.dll": {
+        "size": 1886448,
+        "modification_date": "2024-07-31 14:20:06"
+    },
+    "Engine\\Binaries\\ThirdParty\\Ogg\\Win64\\VS2015\\libogg_64.dll": {
+        "size": 70384,
+        "modification_date": "2024-07-31 14:20:12"
+    },
+    "Engine\\Binaries\\ThirdParty\\Steamworks\\Steamv157\\Win64\\SteamConfig.ini": {
+        "size": 1278,
+        "modification_date": "2024-09-05 20:39:56"
+    },
+    "Engine\\Binaries\\ThirdParty\\Steamworks\\Steamv157\\Win64\\steam_api64.dll": {
+        "size": 3575808,
+        "modification_date": "2024-07-31 14:58:44"
+    },
+    "Engine\\Binaries\\ThirdParty\\Vorbis\\Win64\\VS2015\\libvorbisfile_64.dll": {
+        "size": 59120,
+        "modification_date": "2024-07-31 14:20:14"
+    },
+    "Engine\\Binaries\\ThirdParty\\Vorbis\\Win64\\VS2015\\libvorbis_64.dll": {
+        "size": 1735400,
+        "modification_date": "2024-07-31 14:20:06"
+    },
+    "Engine\\Binaries\\ThirdParty\\Windows\\XAudio2_9\\x64\\xaudio2_9redist.dll": {
+        "size": 868672,
+        "modification_date": "2024-07-31 14:20:06"
+    },
+    "Engine\\Content\\Renderer\\TessellationTable.bin": {
+        "size": 259568,
+        "modification_date": "2024-07-31 14:20:14"
+    },
+    "Engine\\Content\\Slate\\Cursor\\invisible.cur": {
+        "size": 326,
+        "modification_date": "2024-07-31 14:20:14"
+    },
+    "Engine\\Extras\\Redist\\en-us\\UEPrereqSetup_x64.exe": {
+        "size": 50542368,
+        "modification_date": "2024-07-31 14:20:06"
+    }
+}

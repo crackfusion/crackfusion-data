@@ -331,5 +331,24 @@
         ],
         "source": "https://www.youtube.com/watch?v=q88hPoQWX6A",
         "addedDate": "2024-09-01"
+    },
+    {
+        "id": "drug-lord",
+        "title": "Drug Lord",
+        "image": "https://raw.githubusercontent.com/crackfusion/crackfusion-data/main/game-images/druglord.jpg",
+        "description": "Start from nothing and rise to the top as you expand your criminal empire in Drug Lord Tycoon. You'll begin as a low-level street hustler working out of a tiny back-alley garage. With aspirations of power and wealth you rise through the ranks, hire workers, and gain access to powerful contacts in the criminal underworld.",
+        "versions": [
+            {
+                "version": "Build 15225897 | Early Access",
+                "date": "2024-09-10",
+                "downloadLinks": [
+                    {"host": "Buzzheavier (Use fdm)", "url": "https://buzzheavier.com/f/GXINY4ipAAA"},
+                    {"host": "Flashbang (Use fdm)", "url": "https://flashbang.sh/f/GXINhZ4B8AA"},
+                    {"host": "Fastupload", "url": "https://fastupload.io/1e80585cd2c7b4f0"}
+                ]
+            }
+        ],
+        "source": "https://urlis.net/druglord",
+        "addedDate": "2024-09-10"
     }
 ]
