@@ -350,5 +350,22 @@
         ],
         "source": "https://urlis.net/druglord",
         "addedDate": "2024-09-10"
+    },
+    {
+        "id": "bloons-td-6",
+        "title": "Bloons TD 6",
+        "image": "https://raw.githubusercontent.com/crackfusion/crackfusion-data/main/game-images/bloons-td-6.jpg",
+        "description": "Get ready for a massive 3D tower defense game designed to give you hours and hours of the best strategy gaming available.",
+        "versions": [
+            {
+                "version": "V: 44.1",
+                "date": "2024-09-10",
+                "downloadLinks": [
+                    {"host": "Buzzheavier (Use fdm)", "url": "https://buzzheavier.com/f/GYCPBWtpAAA"}
+                ]
+            }
+        ],
+        "source": "https://link.crackfusion.xyz/bloons-td-6",
+        "addedDate": "2024-09-22"
     }
 ]
