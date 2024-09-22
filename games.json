@@ -292,6 +292,13 @@
                     {"host": "Fastupload", "url": "https://fastupload.io/5ffc5e4598017e62"},
                     {"host": "Buzzheavier", "url": "https://buzzheavier.com/f/GWVeheTpAAA"}
                 ]
+            },
+            {
+                "version": "V: 0.2.9 | Playtest",
+                "date": "2024-09-22",
+                "downloadLinks": [
+                    {"host": "Multiup", "url": "https://multiup.io/en/mirror/3fe5412120d32e11af04dd41a9958bb9"}
+                ]
             }
         ],
         "source": "https://crackfusion.xyz",
