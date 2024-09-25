@@ -379,5 +379,23 @@
         ],
         "source": "https://link.crackfusion.xyz/bloons-td-6",
         "addedDate": "2024-09-22"
+    },
+    {
+        "id": "star-wars-complete-saga",
+        "title": "LEGO Star Wars: The Complete Saga",
+        "image": "https://raw.githubusercontent.com/crackfusion/crackfusion-data/main/game-images/star-wars-saga.jpg",
+        "description": "LEGO Star Wars: The Complete Saga is a critically acclaimed action-adventure video game that reimagines the iconic Star Wars saga in a playful and accessible LEGO format. Players traverse all six episodes of the Skywalker saga, from The Phantom Menace to Return of the Jedi, engaging in thrilling combat, solving puzzles, and completing challenging missions. The game's humorous tone, vibrant visuals, and diverse cast of playable characters make it a beloved entry in the LEGO video game series, offering a nostalgic and entertaining experience for fans of all ages.",
+        "versions": [
+            {
+                "version": "V: 1",
+                "date": "2024-09-25",
+                "downloadLinks": [
+                    {"host": "Multiup", "url": "https://multiup.io/d6e0efa69371b97d1e373f9190799a9a"},
+                    
+                ]
+            }
+        ],
+        "source": "https://www.crackfusion.xyz",
+        "addedDate": "2024-09-25"
     }
 ]
