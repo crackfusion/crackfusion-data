@@ -381,21 +381,21 @@
         "addedDate": "2024-09-22"
     },
     {
-        "id": "star-wars-complete-saga",
-        "title": "LEGO Star Wars: The Complete Saga",
-        "image": "https://raw.githubusercontent.com/crackfusion/crackfusion-data/main/game-images/star-wars-saga.jpg",
-        "description": "LEGO Star Wars: The Complete Saga is a critically acclaimed action-adventure video game that reimagines the iconic Star Wars saga in a playful and accessible LEGO format. Players traverse all six episodes of the Skywalker saga, from The Phantom Menace to Return of the Jedi, engaging in thrilling combat, solving puzzles, and completing challenging missions. The game's humorous tone, vibrant visuals, and diverse cast of playable characters make it a beloved entry in the LEGO video game series, offering a nostalgic and entertaining experience for fans of all ages.",
+        "id": "night-runners",
+        "title": "NIGHT-RUNNERS: Prologue",
+        "image": "https://raw.githubusercontent.com/crackfusion/crackfusion-data/main/game-images/night-runners.jpg",
+        "description": "Descend into the underworld of Japanese street racing. Set between 1990-2009, join the local street racing crews in their battle for territory control. Explore the real location open world(s), compete in wager races, battle other crews and upgrade your vehicles with detailed car customization.",
         "versions": [
             {
-                "version": "V: 1",
-                "date": "2024-09-25",
+                "version": "V: 1.3",
+                "date": "2024-10-25",
                 "downloadLinks": [
-                    {"host": "Multiup", "url": "https://multiup.io/d6e0efa69371b97d1e373f9190799a9a"}
-                    
+                    {"host": "Filehaus", "url": "https://multiup.io/d6e0efa69371b97d1e373f9190799a9a"},
+                    {"host": "Buzzheavier (Use fdm)", "url": "https://buzzheavier.com/f/Gav3EFuw8AA"}
                 ]
             }
         ],
         "source": "https://www.crackfusion.xyz",
-        "addedDate": "2024-09-25"
-    }
+        "addedDate": "2024-10-25"
+    },
 ]
