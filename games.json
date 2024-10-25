@@ -9,58 +9,35 @@
                 "version": "V: 0.1.6",
                 "date": "2024-05-1",
                 "downloadLinks": [
-                    {
-                        "host": "Gofile",
-                        "url": ""
-                    },
-                    {
-                        "host": "Buzzheavier",
-                        "url": "https://filecrypt.co/Container/C5DB2EF415.html"
-                    }
+                    {"host": "Gofile", "url": ""},
+                    {"host": "Buzzheavier", "url": "https://filecrypt.co/Container/C5DB2EF415.html"}
                 ]
             },
             {
                 "version": "V: 0.2.3",
                 "date": "2024-07-5",
                 "downloadLinks": [
-                    {
-                        "host": "Gofile (fast)",
-                        "url": "https://filecrypt.co/Container/3CF6909A09.html"
-                    },
-                    {
-                        "host": "Buzzheavier (slower, but forever) ( + TORRENT)",
-                        "url": "https://filecrypt.co/Container/3F328E6714.html"
-                    },
-                    {
-                        "host": "Fastupload (fast)",
-                        "url": "https://filecrypt.co/Container/BD3AEA1659.html"
-                    }
+                    {"host": "Gofile (fast)", "url": "https://filecrypt.co/Container/3CF6909A09.html"},
+                    {"host": "Buzzheavier (slower, but forever) ( + TORRENT)", "url": "https://filecrypt.co/Container/3F328E6714.html"},
+                    {"host": "Fastupload (fast)", "url": "https://filecrypt.co/Container/BD3AEA1659.html"}
                 ]
             },
             {
                 "version": "Build: 15328633 | (Geen steam nodig)",
                 "date": "2024-08-17",
                 "downloadLinks": [
-                    {
-                        "host": "Multiup.io",
-                        "url": "https://multiup.io/ddf39cea0cd075c59958ec81bd806fad"
-                    }
+                    {"host": "Multiup.io", "url": "https://multiup.io/ddf39cea0cd075c59958ec81bd806fad"}
                 ]
             },
             {
                 "version": "V: 0.3.2 (Steam nodig)",
                 "date": "2024-09-21",
                 "downloadLinks": [
-                    {
-                        "host": "Fastupload",
-                        "url": "https://fastupload.io/babb0ecab10fed82"
-                    },
-                    {
-                        "host": "Buzzheavier (Use fdm)",
-                        "url": "https://buzzheavier.com/f/GX88hD9pAAA"
-                    }
+                    {"host": "Fastupload", "url": "https://fastupload.io/babb0ecab10fed82"},
+                    {"host": "Buzzheavier (Use fdm)", "url": "https://buzzheavier.com/f/GX88hD9pAAA"}
                 ]
             }
+
         ],
         "source": "https://store.steampowered.com/app/2703850/Rooftops__Alleys_The_Parkour_Game/",
         "addedDate": "2024-06-25"
@@ -75,24 +52,15 @@
                 "version": "V: 1.0",
                 "date": "2024-06-20",
                 "downloadLinks": [
-                    {
-                        "host": "Unavailable",
-                        "url": "#"
-                    }
+                    {"host": "Unavailable", "url": "#"}
                 ]
             },
             {
                 "version": "V: 14.4.4",
                 "date": "2024-09-02",
                 "downloadLinks": [
-                    {
-                        "host": "Buzzheavier (Use fdm)",
-                        "url": "https://buzzheavier.com/f/GWe6hvaf0AA"
-                    },
-                    {
-                        "host": "Fastupload",
-                        "url": "https://fastupload.io/4fdd9de95b7ddc94"
-                    }
+                    {"host": "Buzzheavier (Use fdm)", "url": "https://buzzheavier.com/f/GWe6hvaf0AA"},
+                    {"host": "Fastupload", "url": "https://fastupload.io/4fdd9de95b7ddc94"}
                 ]
             }
         ],
@@ -109,24 +77,15 @@
                 "version": "V: 1.0",
                 "date": "2024-06-15",
                 "downloadLinks": [
-                    {
-                        "host": "Gofile",
-                        "url": "https://gofile.io/d/80y7Yp"
-                    },
-                    {
-                        "host": "Fastupload",
-                        "url": "https://fs3.fastupload.io/964c587bfdb5f3e1/Bodycam-CrackFusion.xyz.zip?download_token=86e1d74c268fe36a23d3dd0f9c6f5d9b6414d758fdd5de1332148026f6a9fb88"
-                    }
+                    {"host": "Gofile", "url": "https://gofile.io/d/80y7Yp"},
+                    {"host": "Fastupload", "url": "https://fs3.fastupload.io/964c587bfdb5f3e1/Bodycam-CrackFusion.xyz.zip?download_token=86e1d74c268fe36a23d3dd0f9c6f5d9b6414d758fdd5de1332148026f6a9fb88"}
                 ]
             },
             {
                 "version": "v1.2.5 Hotfix 1",
                 "date": "2024-07-3",
                 "downloadLinks": [
-                    {
-                        "host": "Buzzheavier",
-                        "url": "https://buzzheavier.com/f/GW8MLDnpAAA"
-                    }
+                    {"host": "Buzzheavier", "url": "https://buzzheavier.com/f/GW8MLDnpAAA"}
                 ]
             }
         ],
@@ -143,24 +102,15 @@
                 "version": "V: 0.32",
                 "date": "2024-06-30",
                 "downloadLinks": [
-                    {
-                        "host": "Buzzheavier",
-                        "url": ""
-                    },
-                    {
-                        "host": "Gofile",
-                        "url": "https://filecrypt.co/Container/15E85744B7.html"
-                    }
+                    {"host": "Buzzheavier", "url": ""},
+                    {"host": "Gofile", "url": "https://filecrypt.co/Container/15E85744B7.html"}
                 ]
             },
             {
                 "version": "V: 0.32.5",
                 "date": "2024-08-17",
                 "downloadLinks": [
-                    {
-                        "host": "Multiup.io",
-                        "url": "https://multiup.io/dcaeadba99e0e04b559635faddaeac53"
-                    }
+                    {"host": "Multiup.io", "url": "https://multiup.io/dcaeadba99e0e04b559635faddaeac53"}
                 ]
             }
         ],
@@ -177,28 +127,16 @@
                 "version": "Build: 14899096",
                 "date": "2024-07-02",
                 "downloadLinks": [
-                    {
-                        "host": "Gofile (fastest)",
-                        "url": "https://filecrypt.co/Container/F02D460621.html"
-                    },
-                    {
-                        "host": "Buzzheavier (forever) ( USE FDM )",
-                        "url": "https://filecrypt.co/Container/5D7E46CA8D.html"
-                    }
+                    {"host": "Gofile (fastest)", "url": "https://filecrypt.co/Container/F02D460621.html"},
+                    {"host": "Buzzheavier (forever) ( USE FDM )", "url": "https://filecrypt.co/Container/5D7E46CA8D.html"}
                 ]
             },
             {
                 "version": "V: 1.39.101624 | Latest Online-Fix",
                 "date": "2024-09-04",
                 "downloadLinks": [
-                    {
-                        "host": "Buzzheavier (Use fdm)",
-                        "url": "https://buzzheavier.com/f/GWoA2nxpAAA"
-                    },
-                    {
-                        "host": "Fastupload",
-                        "url": "https://fastupload.io/fb3467406013fc00"
-                    }
+                    {"host": "Buzzheavier (Use fdm)", "url": "https://buzzheavier.com/f/GWoA2nxpAAA"},
+                    {"host": "Fastupload", "url": "https://fastupload.io/fb3467406013fc00"}
                 ]
             }
         ],
@@ -215,14 +153,8 @@
                 "version": "V: 0.22.9",
                 "date": "2024-07-01",
                 "downloadLinks": [
-                    {
-                        "host": "Gofile (fastest)",
-                        "url": "https://filecrypt.co/Container/7E4556D138.html"
-                    },
-                    {
-                        "host": "Buzzheavier (forever)",
-                        "url": "https://filecrypt.co/Container/EAC78B5A35.html"
-                    }
+                    {"host": "Gofile (fastest)", "url": "https://filecrypt.co/Container/7E4556D138.html"},
+                    {"host": "Buzzheavier (forever)", "url": "https://filecrypt.co/Container/EAC78B5A35.html"}
                 ]
             }
         ],
@@ -239,18 +171,9 @@
                 "version": "V: 1.27 patch 5",
                 "date": "2024-07-05",
                 "downloadLinks": [
-                    {
-                        "host": "Gofile (fastest)",
-                        "url": ""
-                    },
-                    {
-                        "host": "Buzzheavier (forever)",
-                        "url": ""
-                    },
-                    {
-                        "host": "Fastupload (fast)",
-                        "url": "https://fastupload.io/770f2c2f7b3c244d"
-                    }
+                    {"host": "Gofile (fastest)", "url": ""},
+                    {"host": "Buzzheavier (forever)", "url": ""},
+                    {"host": "Fastupload (fast)", "url": "https://fastupload.io/770f2c2f7b3c244d"}
                 ]
             }
         ],
@@ -267,22 +190,10 @@
                 "version": "V: 1.17.1-f4 (Latest)",
                 "date": "2024-07-06",
                 "downloadLinks": [
-                    {
-                        "host": "Gofile (fastest)",
-                        "url": "https://gofile.io/d/ZmwW3Z"
-                    },
-                    {
-                        "host": "Buzzheavier (forever)",
-                        "url": ""
-                    },
-                    {
-                        "host": "Fastupload (fast)",
-                        "url": "https://fastupload.io/72dca47eb5355003"
-                    },
-                    {
-                        "host": "Qiwi (decent)",
-                        "url": "https://qiwi.gg/file/582H1984-CitiesSkylines-Crackfusion"
-                    }
+                    {"host": "Gofile (fastest)", "url": "https://gofile.io/d/ZmwW3Z"},
+                    {"host": "Buzzheavier (forever)", "url": ""},
+                    {"host": "Fastupload (fast)", "url": "https://fastupload.io/72dca47eb5355003"},
+                    {"host": "Qiwi (decent)", "url": "https://qiwi.gg/file/582H1984-CitiesSkylines-Crackfusion"}
                 ]
             }
         ],
@@ -299,22 +210,10 @@
                 "version": "V: BETA",
                 "date": "2024-07-10",
                 "downloadLinks": [
-                    {
-                        "host": "Gofile (fastest)",
-                        "url": "https://gofile.io/d/V7nLd5"
-                    },
-                    {
-                        "host": "FLASHBANG (forever)",
-                        "url": "https://flashbang.sh/f/GSH4rh0EgAA"
-                    },
-                    {
-                        "host": "Fastupload (fast)",
-                        "url": "https://fastupload.io/ff8d444305d7e0ab"
-                    },
-                    {
-                        "host": "Qiwi (decent)",
-                        "url": "https://qiwi.gg/file/xwJM1352-ULTRAKILL-Crackfusion"
-                    }
+                    {"host": "Gofile (fastest)", "url": "https://gofile.io/d/V7nLd5"},
+                    {"host": "FLASHBANG (forever)", "url": "https://flashbang.sh/f/GSH4rh0EgAA"},
+                    {"host": "Fastupload (fast)", "url": "https://fastupload.io/ff8d444305d7e0ab"},
+                    {"host": "Qiwi (decent)", "url": "https://qiwi.gg/file/xwJM1352-ULTRAKILL-Crackfusion"}
                 ]
             }
         ],
@@ -331,14 +230,8 @@
                 "version": "V: 1.0.0.8 | Full Version",
                 "date": "2024-08-11",
                 "downloadLinks": [
-                    {
-                        "host": "FLASHBANG (forever)",
-                        "url": "https://flashbang.sh/f/GUtGpVNB8AA"
-                    },
-                    {
-                        "host": "Fastupload (fast)",
-                        "url": "https://fastupload.io/e2ed400f5c60f1c6"
-                    }
+                    {"host": "FLASHBANG (forever)", "url": "https://flashbang.sh/f/GUtGpVNB8AA"},
+                    {"host": "Fastupload (fast)", "url": "https://fastupload.io/e2ed400f5c60f1c6"}
                 ]
             }
         ],
@@ -355,10 +248,7 @@
                 "version": "Build: 13179062 | Full Version",
                 "date": "2024-08-17",
                 "downloadLinks": [
-                    {
-                        "host": "SOON",
-                        "url": "#"
-                    }
+                    {"host": "SOON", "url": "#"}
                 ]
             }
         ],
@@ -375,10 +265,7 @@
                 "version": "Build: 1837531 | Full Version",
                 "date": "2017-08-17",
                 "downloadLinks": [
-                    {
-                        "host": "Multiup.io",
-                        "url": "https://multiup.io/48f4d83f5ccf867ab7795eedde29a83a"
-                    }
+                    {"host": "Multiup.io", "url": "https://multiup.io/48f4d83f5ccf867ab7795eedde29a83a"}
                 ]
             }
         ],
@@ -395,34 +282,22 @@
                 "version": "Build: 1837531 | Playtest",
                 "date": "2024-08-19",
                 "downloadLinks": [
-                    {
-                        "host": "Buzzheavier (forever)",
-                        "url": "https://buzzheavier.com/f/GVWePkCpAAA"
-                    }
+                    {"host": "Buzzheavier (forever)", "url": "https://buzzheavier.com/f/GVWePkCpAAA"}
                 ]
             },
             {
                 "version": "V: 0.2.7 | Playtest",
                 "date": "2024-08-31",
                 "downloadLinks": [
-                    {
-                        "host": "Fastupload",
-                        "url": "https://fastupload.io/5ffc5e4598017e62"
-                    },
-                    {
-                        "host": "Buzzheavier",
-                        "url": "https://buzzheavier.com/f/GWVeheTpAAA"
-                    }
+                    {"host": "Fastupload", "url": "https://fastupload.io/5ffc5e4598017e62"},
+                    {"host": "Buzzheavier", "url": "https://buzzheavier.com/f/GWVeheTpAAA"}
                 ]
             },
             {
                 "version": "V: 0.2.9 | Playtest",
                 "date": "2024-09-22",
                 "downloadLinks": [
-                    {
-                        "host": "Multiup",
-                        "url": "https://multiup.io/en/mirror/3fe5412120d32e11af04dd41a9958bb9"
-                    }
+                    {"host": "Multiup", "url": "https://multiup.io/en/mirror/3fe5412120d32e11af04dd41a9958bb9"}
                 ]
             }
         ],
@@ -439,14 +314,8 @@
                 "version": "V: 62",
                 "date": "2024-08-31",
                 "downloadLinks": [
-                    {
-                        "host": "Buzzheavier",
-                        "url": "https://buzzheavier.com/f/GWVidY_pAAA"
-                    },
-                    {
-                        "host": "Fastupload",
-                        "url": "https://fastupload.io/be62307c2babccd9"
-                    }
+                    {"host": "Buzzheavier", "url": "https://buzzheavier.com/f/GWVidY_pAAA"},
+                    {"host": "Fastupload", "url": "https://fastupload.io/be62307c2babccd9"}
                 ]
             }
         ],
@@ -463,10 +332,7 @@
                 "version": "V: 24.03.26.1626",
                 "date": "2024-09-01",
                 "downloadLinks": [
-                    {
-                        "host": "Multiup",
-                        "url": "https://multiup.io/en/mirror/b6a70336185a0f75659f97c9a0f000c6"
-                    }
+                    {"host": "Multiup", "url": "https://multiup.io/en/mirror/b6a70336185a0f75659f97c9a0f000c6"}
                 ]
             }
         ],
@@ -483,18 +349,9 @@
                 "version": "Build 15225897 | Early Access",
                 "date": "2024-09-10",
                 "downloadLinks": [
-                    {
-                        "host": "Buzzheavier (Use fdm)",
-                        "url": "https://buzzheavier.com/f/GXINY4ipAAA"
-                    },
-                    {
-                        "host": "Flashbang (Use fdm)",
-                        "url": "https://flashbang.sh/f/GXINhZ4B8AA"
-                    },
-                    {
-                        "host": "Fastupload",
-                        "url": "https://fastupload.io/1e80585cd2c7b4f0"
-                    }
+                    {"host": "Buzzheavier (Use fdm)", "url": "https://buzzheavier.com/f/GXINY4ipAAA"},
+                    {"host": "Flashbang (Use fdm)", "url": "https://flashbang.sh/f/GXINhZ4B8AA"},
+                    {"host": "Fastupload", "url": "https://fastupload.io/1e80585cd2c7b4f0"}
                 ]
             }
         ],
@@ -511,26 +368,12 @@
                 "version": "V: 44.1",
                 "date": "2024-09-22",
                 "downloadLinks": [
-                    {
-                        "host": "Buzzheavier (Use fdm)",
-                        "url": "https://buzzheavier.com/f/GYCPBWtpAAA"
-                    },
-                    {
-                        "host": "Dailyuploads",
-                        "url": "https://dailyuploads.net/kt78swxhv0pt/Bloons-TD-6-Crackfusion.xyz.zip"
-                    },
-                    {
-                        "host": "Hidan",
-                        "url": "https://hidan.sh/kmkki9x4rb6z"
-                    },
-                    {
-                        "host": "Mirrorace",
-                        "url": "https://mirrorace.org/m/80Jo7"
-                    },
-                    {
-                        "host": "MegaUp",
-                        "url": "https://megaup.net/fe1c9f833cc2e802a78b4c1f0594fd2f/Bloons-TD-6-Crackfusion.xyz.zip"
-                    }
+                    {"host": "Buzzheavier (Use fdm)", "url": "https://buzzheavier.com/f/GYCPBWtpAAA"},
+                    {"host": "Dailyuploads", "url": "https://dailyuploads.net/kt78swxhv0pt/Bloons-TD-6-Crackfusion.xyz.zip"},
+                    {"host": "Hidan", "url": "https://hidan.sh/kmkki9x4rb6z"},
+                    {"host": "Mirrorace", "url": "https://mirrorace.org/m/80Jo7"},
+                    {"host": "MegaUp", "url": "https://megaup.net/fe1c9f833cc2e802a78b4c1f0594fd2f/Bloons-TD-6-Crackfusion.xyz.zip"}
+                    
                 ]
             }
         ],
@@ -547,14 +390,8 @@
                 "version": "V: 1.3",
                 "date": "2024-10-25",
                 "downloadLinks": [
-                    {
-                        "host": "Filehaus",
-                        "url": "https://multiup.io/d6e0efa69371b97d1e373f9190799a9a"
-                    },
-                    {
-                        "host": "Buzzheavier (Use fdm)",
-                        "url": "https://buzzheavier.com/f/Gav3EFuw8AA"
-                    }
+                    {"host": "Filehaus", "url": "https://cdn7.filehaus.su/files/1729872324_48974/NIGHT-RUNNERS-Prologue-Crackfusion.xyz.zip"},
+                    {"host": "Buzzheavier (Use fdm)", "url": "https://buzzheavier.com/f/Gav3EFuw8AA"}
                 ]
             }
         ],
