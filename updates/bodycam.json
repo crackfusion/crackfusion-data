@@ -1,23 +1,11 @@
 {
-    "Bodycam.exe": {
-        "size": 172544,
-        "modification_date": "2024-07-05 08:53:03"
-    },
-    "CFU.py": {
-        "size": 3157,
-        "modification_date": "2024-09-08 00:19:42"
-    },
-    "cfu.spec": {
-        "size": 692,
-        "modification_date": "2024-09-08 00:21:49"
+    "cfu.exe": {
+        "size": 10023936,
+        "modification_date": "2024-10-29 14:34:45"
     },
     "CFU.txt": {
         "size": 787,
         "modification_date": "2024-08-17 16:56:00"
-    },
-    "cfupdate.exe": {
-        "size": 12052449,
-        "modification_date": "2024-09-08 00:21:59"
     },
     "Crackfusion.xyz - The new ready to play..url": {
         "size": 137,
@@ -27,1212 +15,596 @@
         "size": 1048,
         "modification_date": "2024-08-17 17:33:13"
     },
-    "Manifest_DebugFiles_Win64.txt": {
-        "size": 279,
-        "modification_date": "2024-07-05 08:53:02"
-    },
-    "Manifest_NonUFSFiles_Win64.txt": {
-        "size": 9538,
-        "modification_date": "2024-07-05 08:53:02"
-    },
-    "Manifest_UFSFiles_Win64.txt": {
-        "size": 4312728,
-        "modification_date": "2024-07-05 09:00:06"
-    },
     "Read_Me_Instructions.txt": {
         "size": 1443,
         "modification_date": "2024-07-05 23:30:24"
     },
-    "Bodycam\\Binaries\\Win64\\Bodycam-Win64-Shipping.exe": {
-        "size": 131732480,
-        "modification_date": "2024-07-05 08:53:14"
+    "Bodycam\\Bodycam.exe": {
+        "size": 172544,
+        "modification_date": "2024-10-03 23:38:36"
     },
-    "Bodycam\\Binaries\\Win64\\boost_atomic-mt-x64.dll": {
+    "Bodycam\\Manifest_DebugFiles_Win64.txt": {
+        "size": 279,
+        "modification_date": "2024-10-03 23:38:28"
+    },
+    "Bodycam\\Manifest_NonUFSFiles_Win64.txt": {
+        "size": 9538,
+        "modification_date": "2024-10-03 23:38:28"
+    },
+    "Bodycam\\Manifest_UFSFiles_Win64.txt": {
+        "size": 4899603,
+        "modification_date": "2024-10-03 23:46:51"
+    },
+    "Bodycam\\Bodycam\\Binaries\\Win64\\Bodycam-Win64-Shipping.exe": {
+        "size": 132030464,
+        "modification_date": "2024-10-03 23:38:39"
+    },
+    "Bodycam\\Bodycam\\Binaries\\Win64\\boost_atomic-mt-x64.dll": {
         "size": 33736,
-        "modification_date": "2024-07-05 08:53:02"
+        "modification_date": "2024-10-03 23:38:29"
     },
-    "Bodycam\\Binaries\\Win64\\boost_chrono-mt-x64.dll": {
+    "Bodycam\\Bodycam\\Binaries\\Win64\\boost_chrono-mt-x64.dll": {
         "size": 52680,
-        "modification_date": "2024-07-05 08:53:03"
+        "modification_date": "2024-10-03 23:38:29"
     },
-    "Bodycam\\Binaries\\Win64\\boost_filesystem-mt-x64.dll": {
+    "Bodycam\\Bodycam\\Binaries\\Win64\\boost_filesystem-mt-x64.dll": {
         "size": 157128,
-        "modification_date": "2024-07-05 08:53:03"
+        "modification_date": "2024-10-03 23:38:36"
     },
-    "Bodycam\\Binaries\\Win64\\boost_iostreams-mt-x64.dll": {
+    "Bodycam\\Bodycam\\Binaries\\Win64\\boost_iostreams-mt-x64.dll": {
         "size": 63944,
-        "modification_date": "2024-07-05 08:53:03"
+        "modification_date": "2024-10-03 23:38:29"
     },
-    "Bodycam\\Binaries\\Win64\\boost_program_options-mt-x64.dll": {
+    "Bodycam\\Bodycam\\Binaries\\Win64\\boost_program_options-mt-x64.dll": {
         "size": 356808,
-        "modification_date": "2024-07-05 08:53:05"
+        "modification_date": "2024-10-03 23:38:36"
     },
-    "Bodycam\\Binaries\\Win64\\boost_python39-mt-x64.dll": {
+    "Bodycam\\Bodycam\\Binaries\\Win64\\boost_python39-mt-x64.dll": {
         "size": 208328,
-        "modification_date": "2024-07-05 08:53:04"
+        "modification_date": "2024-10-03 23:38:36"
     },
-    "Bodycam\\Binaries\\Win64\\boost_regex-mt-x64.dll": {
+    "Bodycam\\Bodycam\\Binaries\\Win64\\boost_regex-mt-x64.dll": {
         "size": 244168,
-        "modification_date": "2024-07-05 08:53:04"
+        "modification_date": "2024-10-03 23:38:36"
     },
-    "Bodycam\\Binaries\\Win64\\boost_system-mt-x64.dll": {
+    "Bodycam\\Bodycam\\Binaries\\Win64\\boost_system-mt-x64.dll": {
         "size": 26056,
-        "modification_date": "2024-07-05 08:53:02"
+        "modification_date": "2024-10-03 23:38:28"
     },
-    "Bodycam\\Binaries\\Win64\\boost_thread-mt-x64.dll": {
+    "Bodycam\\Bodycam\\Binaries\\Win64\\boost_thread-mt-x64.dll": {
         "size": 92104,
-        "modification_date": "2024-07-05 08:53:03"
+        "modification_date": "2024-10-03 23:38:29"
     },
-    "Bodycam\\Binaries\\Win64\\D3D12.dll": {
+    "Bodycam\\Bodycam\\Binaries\\Win64\\D3D12.dll": {
         "size": 1930200,
-        "modification_date": "2024-07-05 08:53:14"
+        "modification_date": "2024-10-03 23:38:39"
     },
-    "Bodycam\\Binaries\\Win64\\D3D12Core.dll": {
+    "Bodycam\\Bodycam\\Binaries\\Win64\\D3D12Core.dll": {
         "size": 5508496,
-        "modification_date": "2024-07-05 08:53:14"
+        "modification_date": "2024-10-03 23:38:38"
     },
-    "Bodycam\\Binaries\\Win64\\discord_game_sdk.dll": {
+    "Bodycam\\Bodycam\\Binaries\\Win64\\discord_game_sdk.dll": {
         "size": 3891512,
-        "modification_date": "2024-07-05 08:53:14"
+        "modification_date": "2024-10-03 23:38:39"
     },
-    "Bodycam\\Binaries\\Win64\\dlllist.txt": {
+    "Bodycam\\Bodycam\\Binaries\\Win64\\dlllist.txt": {
         "size": 15,
         "modification_date": "2024-06-11 10:27:01"
     },
-    "Bodycam\\Binaries\\Win64\\inventory.json": {
+    "Bodycam\\Bodycam\\Binaries\\Win64\\inventory.json": {
         "size": 486196,
-        "modification_date": "2024-06-11 10:28:44"
+        "modification_date": "2024-10-04 15:51:26"
     },
-    "Bodycam\\Binaries\\Win64\\OnlineFix.ini": {
+    "Bodycam\\Bodycam\\Binaries\\Win64\\OnlineFix.ini": {
         "size": 566,
-        "modification_date": "2024-09-08 00:17:10"
+        "modification_date": "2024-10-06 13:44:54"
     },
-    "Bodycam\\Binaries\\Win64\\OnlineFix.url": {
+    "Bodycam\\Bodycam\\Binaries\\Win64\\OnlineFix.url": {
         "size": 46,
         "modification_date": "2019-09-23 18:43:58"
     },
-    "Bodycam\\Binaries\\Win64\\OnlineFix64.dll": {
+    "Bodycam\\Bodycam\\Binaries\\Win64\\OnlineFix64.dll": {
         "size": 10771968,
         "modification_date": "2024-06-11 11:23:04"
     },
-    "Bodycam\\Binaries\\Win64\\OpenImageDenoise.dll": {
+    "Bodycam\\Bodycam\\Binaries\\Win64\\OpenImageDenoise.dll": {
         "size": 49787744,
-        "modification_date": "2024-07-05 08:53:14"
+        "modification_date": "2024-10-03 23:38:42"
     },
-    "Bodycam\\Binaries\\Win64\\tbb.dll": {
+    "Bodycam\\Bodycam\\Binaries\\Win64\\tbb.dll": {
         "size": 399816,
-        "modification_date": "2024-07-05 08:53:05"
+        "modification_date": "2024-10-03 23:38:36"
     },
-    "Bodycam\\Binaries\\Win64\\tbb12.dll": {
+    "Bodycam\\Bodycam\\Binaries\\Win64\\tbb12.dll": {
         "size": 309704,
-        "modification_date": "2024-07-05 08:53:04"
+        "modification_date": "2024-10-03 23:38:36"
     },
-    "Bodycam\\Binaries\\Win64\\winmm.dll": {
+    "Bodycam\\Bodycam\\Binaries\\Win64\\winmm.dll": {
         "size": 524288,
         "modification_date": "2022-08-30 11:01:55"
     },
-    "Bodycam\\Content\\Movies\\Alive.mp4": {
+    "Bodycam\\Bodycam\\Binaries\\Win64\\D3D12\\D3D12Core.dll": {
+        "size": 5508496,
+        "modification_date": "2024-10-03 23:38:38"
+    },
+    "Bodycam\\Bodycam\\Content\\Movies\\Alive.mp4": {
         "size": 1663278,
-        "modification_date": "2024-07-05 08:53:14"
+        "modification_date": "2024-10-03 23:38:39"
     },
-    "Bodycam\\Content\\Movies\\ANIM LOGO BODYCAM.mp4": {
+    "Bodycam\\Bodycam\\Content\\Movies\\ANIM LOGO BODYCAM.mp4": {
         "size": 56421712,
-        "modification_date": "2024-07-05 08:53:15"
+        "modification_date": "2024-10-03 23:38:40"
     },
-    "Bodycam\\Content\\Movies\\Background_Music.mp4": {
+    "Bodycam\\Bodycam\\Content\\Movies\\Background_Music.mp4": {
         "size": 210473592,
-        "modification_date": "2024-07-05 08:53:18"
+        "modification_date": "2024-10-03 23:38:43"
     },
-    "Bodycam\\Content\\Movies\\BG ANIME.mp4": {
+    "Bodycam\\Bodycam\\Content\\Movies\\BG ANIME.mp4": {
         "size": 21328937,
-        "modification_date": "2024-07-05 08:53:18"
+        "modification_date": "2024-10-03 23:38:43"
     },
-    "Bodycam\\Content\\Movies\\Dead.mp4": {
+    "Bodycam\\Bodycam\\Content\\Movies\\Dead.mp4": {
         "size": 624155,
-        "modification_date": "2024-07-05 08:53:06"
+        "modification_date": "2024-10-03 23:38:37"
     },
-    "Bodycam\\Content\\Movies\\EXTRA.mp4": {
+    "Bodycam\\Bodycam\\Content\\Movies\\EXTRA.mp4": {
         "size": 5204765,
-        "modification_date": "2024-07-05 08:53:18"
+        "modification_date": "2024-10-03 23:38:43"
     },
-    "Bodycam\\Content\\Movies\\GlitchVideo.mp4": {
+    "Bodycam\\Bodycam\\Content\\Movies\\GlitchVideo.mp4": {
         "size": 180590676,
-        "modification_date": "2024-07-05 08:53:21"
+        "modification_date": "2024-10-03 23:38:45"
     },
-    "Bodycam\\Content\\Movies\\INTERFACE.mp4": {
+    "Bodycam\\Bodycam\\Content\\Movies\\INTERFACE.mp4": {
         "size": 7941172,
-        "modification_date": "2024-07-05 08:53:21"
+        "modification_date": "2024-10-03 23:38:45"
     },
-    "Bodycam\\Content\\Movies\\INTRO CHARGEMENT BC HD.mp4": {
+    "Bodycam\\Bodycam\\Content\\Movies\\INTRO CHARGEMENT BC HD.mp4": {
         "size": 99737941,
-        "modification_date": "2024-07-05 08:53:22"
+        "modification_date": "2024-10-03 23:38:47"
     },
-    "Bodycam\\Content\\Movies\\LoadingVHS.mov": {
+    "Bodycam\\Bodycam\\Content\\Movies\\LoadingVHS.mov": {
         "size": 7832096,
-        "modification_date": "2024-07-05 08:53:22"
+        "modification_date": "2024-10-03 23:38:47"
     },
-    "Bodycam\\Content\\Movies\\LOGO_BODY_CAM_ANIM.mp4": {
+    "Bodycam\\Bodycam\\Content\\Movies\\LOGO_BODY_CAM_ANIM.mp4": {
         "size": 11665728,
-        "modification_date": "2024-07-05 08:53:23"
+        "modification_date": "2024-10-03 23:38:47"
     },
-    "Bodycam\\Content\\Movies\\LOGO_INTRO.mp4": {
+    "Bodycam\\Bodycam\\Content\\Movies\\LOGO_INTRO.mp4": {
         "size": 175195262,
-        "modification_date": "2024-07-05 08:53:25"
+        "modification_date": "2024-10-03 23:38:50"
     },
-    "Bodycam\\Content\\Movies\\MAP_01.mp4": {
+    "Bodycam\\Bodycam\\Content\\Movies\\MAP_01.mp4": {
         "size": 49364843,
-        "modification_date": "2024-07-05 08:53:26"
+        "modification_date": "2024-10-03 23:38:50"
     },
-    "Bodycam\\Content\\Movies\\MAP_02.mp4": {
+    "Bodycam\\Bodycam\\Content\\Movies\\MAP_02.mp4": {
         "size": 44608727,
-        "modification_date": "2024-07-05 08:53:26"
+        "modification_date": "2024-10-03 23:38:51"
     },
-    "Bodycam\\Content\\Movies\\MAP_03.mp4": {
+    "Bodycam\\Bodycam\\Content\\Movies\\MAP_03.mp4": {
         "size": 84316949,
-        "modification_date": "2024-07-05 08:53:27"
+        "modification_date": "2024-10-03 23:38:52"
     },
-    "Bodycam\\Content\\Movies\\MAP_04.mp4": {
+    "Bodycam\\Bodycam\\Content\\Movies\\MAP_04.mp4": {
         "size": 69155862,
-        "modification_date": "2024-07-05 08:53:28"
+        "modification_date": "2024-10-03 23:38:53"
     },
-    "Bodycam\\Content\\Movies\\MAP_05.mp4": {
+    "Bodycam\\Bodycam\\Content\\Movies\\MAP_05.mp4": {
         "size": 49986649,
-        "modification_date": "2024-07-05 08:53:29"
+        "modification_date": "2024-10-03 23:38:53"
     },
-    "Bodycam\\Content\\Movies\\MAP_06.mp4": {
+    "Bodycam\\Bodycam\\Content\\Movies\\MAP_06.mp4": {
         "size": 221866161,
-        "modification_date": "2024-07-05 08:53:32"
+        "modification_date": "2024-10-03 23:38:56"
     },
-    "Bodycam\\Content\\Movies\\MAP_USA.mp4": {
+    "Bodycam\\Bodycam\\Content\\Movies\\MAP_USA.mp4": {
         "size": 137110328,
-        "modification_date": "2024-07-05 08:53:34"
+        "modification_date": "2024-10-03 23:38:58"
     },
-    "Bodycam\\Content\\Movies\\R POINT 16-9.mp4": {
+    "Bodycam\\Bodycam\\Content\\Movies\\R POINT 16-9.mp4": {
         "size": 5933460,
-        "modification_date": "2024-07-05 08:53:34"
+        "modification_date": "2024-10-03 23:38:58"
     },
-    "Bodycam\\Content\\Movies\\REISSAD STUDIO PRESENTS.mov": {
+    "Bodycam\\Bodycam\\Content\\Movies\\REISSAD STUDIO PRESENTS.mov": {
         "size": 91751572,
-        "modification_date": "2024-07-05 08:53:35"
+        "modification_date": "2024-10-03 23:39:00"
     },
-    "Bodycam\\Content\\Movies\\Terre.mp4": {
+    "Bodycam\\Bodycam\\Content\\Movies\\Terre.mp4": {
         "size": 86154420,
-        "modification_date": "2024-07-05 08:53:36"
+        "modification_date": "2024-10-03 23:39:00"
     },
-    "Bodycam\\Content\\Movies\\VHS.mp4": {
+    "Bodycam\\Bodycam\\Content\\Movies\\VHS.mp4": {
         "size": 101461977,
-        "modification_date": "2024-07-05 08:53:37"
+        "modification_date": "2024-10-03 23:39:01"
     },
-    "Bodycam\\Content\\Movies\\VHS_Effect.mp4": {
+    "Bodycam\\Bodycam\\Content\\Movies\\VHS_Effect.mp4": {
         "size": 222963157,
-        "modification_date": "2024-07-05 08:53:41"
+        "modification_date": "2024-10-03 23:39:04"
     },
-    "Bodycam\\Content\\Movies\\VHS_Effect02.mp4": {
+    "Bodycam\\Bodycam\\Content\\Movies\\VHS_Effect02.mp4": {
         "size": 141529689,
-        "modification_date": "2024-07-05 08:53:43"
+        "modification_date": "2024-10-03 23:39:06"
     },
-    "Bodycam\\Content\\Paks\\global.ucas": {
-        "size": 2191840,
-        "modification_date": "2024-07-05 08:53:43"
+    "Bodycam\\Bodycam\\Content\\Paks\\global.ucas": {
+        "size": 2205616,
+        "modification_date": "2024-10-03 23:39:06"
     },
-    "Bodycam\\Content\\Paks\\global.utoc": {
+    "Bodycam\\Bodycam\\Content\\Paks\\global.utoc": {
         "size": 611,
-        "modification_date": "2024-07-05 08:52:59"
+        "modification_date": "2024-10-03 23:38:28"
     },
-    "Bodycam\\Content\\Paks\\pakchunk0-Windows.pak": {
-        "size": 19143304,
-        "modification_date": "2024-07-05 08:53:56"
+    "Bodycam\\Bodycam\\Content\\Paks\\pakchunk0-Windows.pak": {
+        "size": 23337979,
+        "modification_date": "2024-10-03 23:39:27"
     },
-    "Bodycam\\Content\\Paks\\pakchunk0-Windows.ucas": {
-        "size": 25929211680,
-        "modification_date": "2024-07-05 09:00:04"
+    "Bodycam\\Bodycam\\Content\\Paks\\pakchunk0-Windows.ucas": {
+        "size": 33221400064,
+        "modification_date": "2024-10-03 23:46:50"
     },
-    "Bodycam\\Content\\Paks\\pakchunk0-Windows.utoc": {
-        "size": 11723273,
-        "modification_date": "2024-07-05 09:00:04"
+    "Bodycam\\Bodycam\\Content\\Paks\\pakchunk0-Windows.utoc": {
+        "size": 14720926,
+        "modification_date": "2024-10-03 23:46:50"
     },
-    "Bodycam\\Content\\Paks\\pakchunk0optional-Windows.pak": {
-        "size": 339,
-        "modification_date": "2024-07-05 08:52:57"
+    "Bodycam\\Bodycam\\Content\\Paks\\pakchunk0optional-Windows.pak": {
+        "size": 365,
+        "modification_date": "2024-10-03 23:38:28"
     },
-    "Bodycam\\Content\\Paks\\pakchunk0optional-Windows.ucas": {
-        "size": 889126432,
-        "modification_date": "2024-07-05 08:53:55"
+    "Bodycam\\Bodycam\\Content\\Paks\\pakchunk0optional-Windows.ucas": {
+        "size": 1538813472,
+        "modification_date": "2024-10-03 23:39:27"
     },
-    "Bodycam\\Content\\Paks\\pakchunk0optional-Windows.utoc": {
-        "size": 331723,
-        "modification_date": "2024-07-05 08:53:04"
+    "Bodycam\\Bodycam\\Content\\Paks\\pakchunk0optional-Windows.utoc": {
+        "size": 616255,
+        "modification_date": "2024-10-03 23:38:37"
     },
-    "Engine\\Binaries\\ThirdParty\\CEF3\\Win64\\chrome_elf.dll": {
+    "Bodycam\\Engine\\Binaries\\ThirdParty\\CEF3\\Win64\\chrome_elf.dll": {
         "size": 1142728,
-        "modification_date": "2024-07-05 09:00:04"
+        "modification_date": "2024-10-03 23:46:50"
     },
-    "Engine\\Binaries\\ThirdParty\\CEF3\\Win64\\d3dcompiler_47.dll": {
+    "Bodycam\\Engine\\Binaries\\ThirdParty\\CEF3\\Win64\\d3dcompiler_47.dll": {
         "size": 4362440,
-        "modification_date": "2024-07-05 09:00:05"
+        "modification_date": "2024-10-03 23:46:50"
     },
-    "Engine\\Binaries\\ThirdParty\\CEF3\\Win64\\icudtl.dat": {
+    "Bodycam\\Engine\\Binaries\\ThirdParty\\CEF3\\Win64\\icudtl.dat": {
         "size": 10413488,
-        "modification_date": "2024-07-05 09:00:04"
+        "modification_date": "2024-10-03 23:46:50"
     },
-    "Engine\\Binaries\\ThirdParty\\CEF3\\Win64\\libcef.dll": {
+    "Bodycam\\Engine\\Binaries\\ThirdParty\\CEF3\\Win64\\libcef.dll": {
         "size": 153130952,
-        "modification_date": "2024-07-05 09:00:05"
+        "modification_date": "2024-10-03 23:46:51"
     },
-    "Engine\\Binaries\\ThirdParty\\CEF3\\Win64\\libEGL.dll": {
+    "Bodycam\\Engine\\Binaries\\ThirdParty\\CEF3\\Win64\\libEGL.dll": {
         "size": 420296,
-        "modification_date": "2024-07-05 08:53:05"
+        "modification_date": "2024-10-03 23:38:36"
     },
-    "Engine\\Binaries\\ThirdParty\\CEF3\\Win64\\libGLESv2.dll": {
+    "Bodycam\\Engine\\Binaries\\ThirdParty\\CEF3\\Win64\\libGLESv2.dll": {
         "size": 6812104,
-        "modification_date": "2024-07-05 09:00:06"
+        "modification_date": "2024-10-03 23:46:51"
     },
-    "Engine\\Binaries\\ThirdParty\\CEF3\\Win64\\snapshot_blob.bin": {
+    "Bodycam\\Engine\\Binaries\\ThirdParty\\CEF3\\Win64\\snapshot_blob.bin": {
         "size": 48390,
-        "modification_date": "2024-07-05 08:53:03"
+        "modification_date": "2024-10-03 23:38:29"
     },
-    "Engine\\Binaries\\ThirdParty\\CEF3\\Win64\\v8_context_snapshot.bin": {
+    "Bodycam\\Engine\\Binaries\\ThirdParty\\CEF3\\Win64\\v8_context_snapshot.bin": {
         "size": 165509,
-        "modification_date": "2024-07-05 08:53:03"
+        "modification_date": "2024-10-03 23:38:36"
     },
-    "Engine\\Binaries\\ThirdParty\\CEF3\\Win64\\Resources\\chrome_100_percent.pak": {
+    "Bodycam\\Engine\\Binaries\\ThirdParty\\CEF3\\Win64\\Resources\\chrome_100_percent.pak": {
         "size": 780548,
-        "modification_date": "2024-07-05 08:53:08"
+        "modification_date": "2024-10-03 23:38:37"
     },
-    "Engine\\Binaries\\ThirdParty\\CEF3\\Win64\\Resources\\chrome_200_percent.pak": {
+    "Bodycam\\Engine\\Binaries\\ThirdParty\\CEF3\\Win64\\Resources\\chrome_200_percent.pak": {
         "size": 1358791,
-        "modification_date": "2024-07-05 09:00:05"
+        "modification_date": "2024-10-03 23:46:50"
     },
-    "Engine\\Binaries\\ThirdParty\\CEF3\\Win64\\Resources\\icudtl.dat": {
+    "Bodycam\\Engine\\Binaries\\ThirdParty\\CEF3\\Win64\\Resources\\icudtl.dat": {
         "size": 10413488,
-        "modification_date": "2024-07-05 09:00:04"
+        "modification_date": "2024-10-03 23:46:50"
     },
-    "Engine\\Binaries\\ThirdParty\\CEF3\\Win64\\Resources\\resources.pak": {
+    "Bodycam\\Engine\\Binaries\\ThirdParty\\CEF3\\Win64\\Resources\\resources.pak": {
         "size": 7285408,
-        "modification_date": "2024-07-05 09:00:05"
+        "modification_date": "2024-10-03 23:46:50"
     },
-    "Engine\\Binaries\\ThirdParty\\CEF3\\Win64\\Resources\\locales\\am.pak": {
+    "Bodycam\\Engine\\Binaries\\ThirdParty\\CEF3\\Win64\\Resources\\locales\\am.pak": {
         "size": 452150,
-        "modification_date": "2024-07-05 08:53:05"
+        "modification_date": "2024-10-03 23:38:36"
     },
-    "Engine\\Binaries\\ThirdParty\\CEF3\\Win64\\Resources\\locales\\ar.pak": {
+    "Bodycam\\Engine\\Binaries\\ThirdParty\\CEF3\\Win64\\Resources\\locales\\ar.pak": {
         "size": 478581,
-        "modification_date": "2024-07-05 08:53:05"
+        "modification_date": "2024-10-03 23:38:36"
     },
-    "Engine\\Binaries\\ThirdParty\\CEF3\\Win64\\Resources\\locales\\bg.pak": {
+    "Bodycam\\Engine\\Binaries\\ThirdParty\\CEF3\\Win64\\Resources\\locales\\bg.pak": {
         "size": 515618,
-        "modification_date": "2024-07-05 08:53:06"
+        "modification_date": "2024-10-03 23:38:36"
     },
-    "Engine\\Binaries\\ThirdParty\\CEF3\\Win64\\Resources\\locales\\bn.pak": {
+    "Bodycam\\Engine\\Binaries\\ThirdParty\\CEF3\\Win64\\Resources\\locales\\bn.pak": {
         "size": 671277,
-        "modification_date": "2024-07-05 08:53:07"
+        "modification_date": "2024-10-03 23:38:37"
     },
-    "Engine\\Binaries\\ThirdParty\\CEF3\\Win64\\Resources\\locales\\ca.pak": {
+    "Bodycam\\Engine\\Binaries\\ThirdParty\\CEF3\\Win64\\Resources\\locales\\ca.pak": {
         "size": 318594,
-        "modification_date": "2024-07-05 08:53:04"
+        "modification_date": "2024-10-03 23:38:36"
     },
-    "Engine\\Binaries\\ThirdParty\\CEF3\\Win64\\Resources\\locales\\cs.pak": {
+    "Bodycam\\Engine\\Binaries\\ThirdParty\\CEF3\\Win64\\Resources\\locales\\cs.pak": {
         "size": 325971,
-        "modification_date": "2024-07-05 08:53:04"
+        "modification_date": "2024-10-03 23:38:36"
     },
-    "Engine\\Binaries\\ThirdParty\\CEF3\\Win64\\Resources\\locales\\da.pak": {
+    "Bodycam\\Engine\\Binaries\\ThirdParty\\CEF3\\Win64\\Resources\\locales\\da.pak": {
         "size": 293792,
-        "modification_date": "2024-07-05 08:53:04"
+        "modification_date": "2024-10-03 23:38:36"
     },
-    "Engine\\Binaries\\ThirdParty\\CEF3\\Win64\\Resources\\locales\\de.pak": {
+    "Bodycam\\Engine\\Binaries\\ThirdParty\\CEF3\\Win64\\Resources\\locales\\de.pak": {
         "size": 316037,
-        "modification_date": "2024-07-05 08:53:04"
+        "modification_date": "2024-10-03 23:38:36"
     },
-    "Engine\\Binaries\\ThirdParty\\CEF3\\Win64\\Resources\\locales\\el.pak": {
+    "Bodycam\\Engine\\Binaries\\ThirdParty\\CEF3\\Win64\\Resources\\locales\\el.pak": {
         "size": 564535,
-        "modification_date": "2024-07-05 08:53:06"
+        "modification_date": "2024-10-03 23:38:36"
     },
-    "Engine\\Binaries\\ThirdParty\\CEF3\\Win64\\Resources\\locales\\en-GB.pak": {
+    "Bodycam\\Engine\\Binaries\\ThirdParty\\CEF3\\Win64\\Resources\\locales\\en-GB.pak": {
         "size": 258784,
-        "modification_date": "2024-07-05 08:53:04"
+        "modification_date": "2024-10-03 23:38:36"
     },
-    "Engine\\Binaries\\ThirdParty\\CEF3\\Win64\\Resources\\locales\\en-US.pak": {
+    "Bodycam\\Engine\\Binaries\\ThirdParty\\CEF3\\Win64\\Resources\\locales\\en-US.pak": {
         "size": 262167,
-        "modification_date": "2024-07-05 08:53:04"
+        "modification_date": "2024-10-03 23:38:36"
     },
-    "Engine\\Binaries\\ThirdParty\\CEF3\\Win64\\Resources\\locales\\es-419.pak": {
+    "Bodycam\\Engine\\Binaries\\ThirdParty\\CEF3\\Win64\\Resources\\locales\\es-419.pak": {
         "size": 312442,
-        "modification_date": "2024-07-05 08:53:04"
+        "modification_date": "2024-10-03 23:38:36"
     },
-    "Engine\\Binaries\\ThirdParty\\CEF3\\Win64\\Resources\\locales\\es.pak": {
+    "Bodycam\\Engine\\Binaries\\ThirdParty\\CEF3\\Win64\\Resources\\locales\\es.pak": {
         "size": 315159,
-        "modification_date": "2024-07-05 08:53:04"
+        "modification_date": "2024-10-03 23:38:36"
     },
-    "Engine\\Binaries\\ThirdParty\\CEF3\\Win64\\Resources\\locales\\et.pak": {
+    "Bodycam\\Engine\\Binaries\\ThirdParty\\CEF3\\Win64\\Resources\\locales\\et.pak": {
         "size": 282645,
-        "modification_date": "2024-07-05 08:53:04"
+        "modification_date": "2024-10-03 23:38:36"
     },
-    "Engine\\Binaries\\ThirdParty\\CEF3\\Win64\\Resources\\locales\\fa.pak": {
+    "Bodycam\\Engine\\Binaries\\ThirdParty\\CEF3\\Win64\\Resources\\locales\\fa.pak": {
         "size": 455382,
-        "modification_date": "2024-07-05 08:53:05"
+        "modification_date": "2024-10-03 23:38:36"
     },
-    "Engine\\Binaries\\ThirdParty\\CEF3\\Win64\\Resources\\locales\\fi.pak": {
+    "Bodycam\\Engine\\Binaries\\ThirdParty\\CEF3\\Win64\\Resources\\locales\\fi.pak": {
         "size": 290495,
-        "modification_date": "2024-07-05 08:53:04"
+        "modification_date": "2024-10-03 23:38:36"
     },
-    "Engine\\Binaries\\ThirdParty\\CEF3\\Win64\\Resources\\locales\\fil.pak": {
+    "Bodycam\\Engine\\Binaries\\ThirdParty\\CEF3\\Win64\\Resources\\locales\\fil.pak": {
         "size": 325067,
-        "modification_date": "2024-07-05 08:53:04"
+        "modification_date": "2024-10-03 23:38:36"
     },
-    "Engine\\Binaries\\ThirdParty\\CEF3\\Win64\\Resources\\locales\\fr.pak": {
+    "Bodycam\\Engine\\Binaries\\ThirdParty\\CEF3\\Win64\\Resources\\locales\\fr.pak": {
         "size": 343306,
-        "modification_date": "2024-07-05 08:53:05"
+        "modification_date": "2024-10-03 23:38:36"
     },
-    "Engine\\Binaries\\ThirdParty\\CEF3\\Win64\\Resources\\locales\\gu.pak": {
+    "Bodycam\\Engine\\Binaries\\ThirdParty\\CEF3\\Win64\\Resources\\locales\\gu.pak": {
         "size": 642545,
-        "modification_date": "2024-07-05 08:53:07"
+        "modification_date": "2024-10-03 23:38:37"
     },
-    "Engine\\Binaries\\ThirdParty\\CEF3\\Win64\\Resources\\locales\\he.pak": {
+    "Bodycam\\Engine\\Binaries\\ThirdParty\\CEF3\\Win64\\Resources\\locales\\he.pak": {
         "size": 397651,
-        "modification_date": "2024-07-05 08:53:05"
+        "modification_date": "2024-10-03 23:38:36"
     },
-    "Engine\\Binaries\\ThirdParty\\CEF3\\Win64\\Resources\\locales\\hi.pak": {
+    "Bodycam\\Engine\\Binaries\\ThirdParty\\CEF3\\Win64\\Resources\\locales\\hi.pak": {
         "size": 665934,
-        "modification_date": "2024-07-05 08:53:07"
+        "modification_date": "2024-10-03 23:38:37"
     },
-    "Engine\\Binaries\\ThirdParty\\CEF3\\Win64\\Resources\\locales\\hr.pak": {
+    "Bodycam\\Engine\\Binaries\\ThirdParty\\CEF3\\Win64\\Resources\\locales\\hr.pak": {
         "size": 313044,
-        "modification_date": "2024-07-05 08:53:04"
+        "modification_date": "2024-10-03 23:38:36"
     },
-    "Engine\\Binaries\\ThirdParty\\CEF3\\Win64\\Resources\\locales\\hu.pak": {
+    "Bodycam\\Engine\\Binaries\\ThirdParty\\CEF3\\Win64\\Resources\\locales\\hu.pak": {
         "size": 336131,
-        "modification_date": "2024-07-05 08:53:05"
+        "modification_date": "2024-10-03 23:38:36"
     },
-    "Engine\\Binaries\\ThirdParty\\CEF3\\Win64\\Resources\\locales\\id.pak": {
+    "Bodycam\\Engine\\Binaries\\ThirdParty\\CEF3\\Win64\\Resources\\locales\\id.pak": {
         "size": 279996,
-        "modification_date": "2024-07-05 08:53:04"
+        "modification_date": "2024-10-03 23:38:36"
     },
-    "Engine\\Binaries\\ThirdParty\\CEF3\\Win64\\Resources\\locales\\it.pak": {
+    "Bodycam\\Engine\\Binaries\\ThirdParty\\CEF3\\Win64\\Resources\\locales\\it.pak": {
         "size": 307951,
-        "modification_date": "2024-07-05 08:53:04"
+        "modification_date": "2024-10-03 23:38:36"
     },
-    "Engine\\Binaries\\ThirdParty\\CEF3\\Win64\\Resources\\locales\\ja.pak": {
+    "Bodycam\\Engine\\Binaries\\ThirdParty\\CEF3\\Win64\\Resources\\locales\\ja.pak": {
         "size": 380325,
-        "modification_date": "2024-07-05 08:53:05"
+        "modification_date": "2024-10-03 23:38:36"
     },
-    "Engine\\Binaries\\ThirdParty\\CEF3\\Win64\\Resources\\locales\\kn.pak": {
+    "Bodycam\\Engine\\Binaries\\ThirdParty\\CEF3\\Win64\\Resources\\locales\\kn.pak": {
         "size": 746654,
-        "modification_date": "2024-07-05 08:53:08"
+        "modification_date": "2024-10-03 23:38:37"
     },
-    "Engine\\Binaries\\ThirdParty\\CEF3\\Win64\\Resources\\locales\\ko.pak": {
+    "Bodycam\\Engine\\Binaries\\ThirdParty\\CEF3\\Win64\\Resources\\locales\\ko.pak": {
         "size": 318635,
-        "modification_date": "2024-07-05 08:53:04"
+        "modification_date": "2024-10-03 23:38:36"
     },
-    "Engine\\Binaries\\ThirdParty\\CEF3\\Win64\\Resources\\locales\\lt.pak": {
+    "Bodycam\\Engine\\Binaries\\ThirdParty\\CEF3\\Win64\\Resources\\locales\\lt.pak": {
         "size": 337360,
-        "modification_date": "2024-07-05 08:53:05"
+        "modification_date": "2024-10-03 23:38:36"
     },
-    "Engine\\Binaries\\ThirdParty\\CEF3\\Win64\\Resources\\locales\\lv.pak": {
+    "Bodycam\\Engine\\Binaries\\ThirdParty\\CEF3\\Win64\\Resources\\locales\\lv.pak": {
         "size": 334614,
-        "modification_date": "2024-07-05 08:53:05"
+        "modification_date": "2024-10-03 23:38:36"
     },
-    "Engine\\Binaries\\ThirdParty\\CEF3\\Win64\\Resources\\locales\\ml.pak": {
+    "Bodycam\\Engine\\Binaries\\ThirdParty\\CEF3\\Win64\\Resources\\locales\\ml.pak": {
         "size": 782773,
-        "modification_date": "2024-07-05 08:53:08"
+        "modification_date": "2024-10-03 23:38:37"
     },
-    "Engine\\Binaries\\ThirdParty\\CEF3\\Win64\\Resources\\locales\\mr.pak": {
+    "Bodycam\\Engine\\Binaries\\ThirdParty\\CEF3\\Win64\\Resources\\locales\\mr.pak": {
         "size": 628384,
-        "modification_date": "2024-07-05 08:53:07"
+        "modification_date": "2024-10-03 23:38:37"
     },
-    "Engine\\Binaries\\ThirdParty\\CEF3\\Win64\\Resources\\locales\\ms.pak": {
+    "Bodycam\\Engine\\Binaries\\ThirdParty\\CEF3\\Win64\\Resources\\locales\\ms.pak": {
         "size": 292221,
-        "modification_date": "2024-07-05 08:53:04"
+        "modification_date": "2024-10-03 23:38:36"
     },
-    "Engine\\Binaries\\ThirdParty\\CEF3\\Win64\\Resources\\locales\\nb.pak": {
+    "Bodycam\\Engine\\Binaries\\ThirdParty\\CEF3\\Win64\\Resources\\locales\\nb.pak": {
         "size": 286157,
-        "modification_date": "2024-07-05 08:53:04"
+        "modification_date": "2024-10-03 23:38:36"
     },
-    "Engine\\Binaries\\ThirdParty\\CEF3\\Win64\\Resources\\locales\\nl.pak": {
+    "Bodycam\\Engine\\Binaries\\ThirdParty\\CEF3\\Win64\\Resources\\locales\\nl.pak": {
         "size": 295863,
-        "modification_date": "2024-07-05 08:53:04"
+        "modification_date": "2024-10-03 23:38:36"
     },
-    "Engine\\Binaries\\ThirdParty\\CEF3\\Win64\\Resources\\locales\\pl.pak": {
+    "Bodycam\\Engine\\Binaries\\ThirdParty\\CEF3\\Win64\\Resources\\locales\\pl.pak": {
         "size": 325355,
-        "modification_date": "2024-07-05 08:53:04"
+        "modification_date": "2024-10-03 23:38:36"
     },
-    "Engine\\Binaries\\ThirdParty\\CEF3\\Win64\\Resources\\locales\\pt-BR.pak": {
+    "Bodycam\\Engine\\Binaries\\ThirdParty\\CEF3\\Win64\\Resources\\locales\\pt-BR.pak": {
         "size": 308037,
-        "modification_date": "2024-07-05 08:53:04"
+        "modification_date": "2024-10-03 23:38:36"
     },
-    "Engine\\Binaries\\ThirdParty\\CEF3\\Win64\\Resources\\locales\\pt-PT.pak": {
+    "Bodycam\\Engine\\Binaries\\ThirdParty\\CEF3\\Win64\\Resources\\locales\\pt-PT.pak": {
         "size": 312611,
-        "modification_date": "2024-07-05 08:53:04"
+        "modification_date": "2024-10-03 23:38:36"
     },
-    "Engine\\Binaries\\ThirdParty\\CEF3\\Win64\\Resources\\locales\\ro.pak": {
+    "Bodycam\\Engine\\Binaries\\ThirdParty\\CEF3\\Win64\\Resources\\locales\\ro.pak": {
         "size": 320345,
-        "modification_date": "2024-07-05 08:53:04"
+        "modification_date": "2024-10-03 23:38:36"
     },
-    "Engine\\Binaries\\ThirdParty\\CEF3\\Win64\\Resources\\locales\\ru.pak": {
+    "Bodycam\\Engine\\Binaries\\ThirdParty\\CEF3\\Win64\\Resources\\locales\\ru.pak": {
         "size": 513810,
-        "modification_date": "2024-07-05 08:53:06"
+        "modification_date": "2024-10-03 23:38:36"
     },
-    "Engine\\Binaries\\ThirdParty\\CEF3\\Win64\\Resources\\locales\\sk.pak": {
+    "Bodycam\\Engine\\Binaries\\ThirdParty\\CEF3\\Win64\\Resources\\locales\\sk.pak": {
         "size": 331329,
-        "modification_date": "2024-07-05 08:53:04"
+        "modification_date": "2024-10-03 23:38:36"
     },
-    "Engine\\Binaries\\ThirdParty\\CEF3\\Win64\\Resources\\locales\\sl.pak": {
+    "Bodycam\\Engine\\Binaries\\ThirdParty\\CEF3\\Win64\\Resources\\locales\\sl.pak": {
         "size": 316275,
-        "modification_date": "2024-07-05 08:53:04"
+        "modification_date": "2024-10-03 23:38:36"
     },
-    "Engine\\Binaries\\ThirdParty\\CEF3\\Win64\\Resources\\locales\\sr.pak": {
+    "Bodycam\\Engine\\Binaries\\ThirdParty\\CEF3\\Win64\\Resources\\locales\\sr.pak": {
         "size": 487444,
-        "modification_date": "2024-07-05 08:53:05"
+        "modification_date": "2024-10-03 23:38:36"
     },
-    "Engine\\Binaries\\ThirdParty\\CEF3\\Win64\\Resources\\locales\\sv.pak": {
+    "Bodycam\\Engine\\Binaries\\ThirdParty\\CEF3\\Win64\\Resources\\locales\\sv.pak": {
         "size": 287757,
-        "modification_date": "2024-07-05 08:53:04"
+        "modification_date": "2024-10-03 23:38:36"
     },
-    "Engine\\Binaries\\ThirdParty\\CEF3\\Win64\\Resources\\locales\\sw.pak": {
+    "Bodycam\\Engine\\Binaries\\ThirdParty\\CEF3\\Win64\\Resources\\locales\\sw.pak": {
         "size": 295655,
-        "modification_date": "2024-07-05 08:53:04"
+        "modification_date": "2024-10-03 23:38:36"
     },
-    "Engine\\Binaries\\ThirdParty\\CEF3\\Win64\\Resources\\locales\\ta.pak": {
+    "Bodycam\\Engine\\Binaries\\ThirdParty\\CEF3\\Win64\\Resources\\locales\\ta.pak": {
         "size": 758488,
-        "modification_date": "2024-07-05 08:53:08"
+        "modification_date": "2024-10-03 23:38:37"
     },
-    "Engine\\Binaries\\ThirdParty\\CEF3\\Win64\\Resources\\locales\\te.pak": {
+    "Bodycam\\Engine\\Binaries\\ThirdParty\\CEF3\\Win64\\Resources\\locales\\te.pak": {
         "size": 707613,
-        "modification_date": "2024-07-05 08:53:07"
+        "modification_date": "2024-10-03 23:38:37"
     },
-    "Engine\\Binaries\\ThirdParty\\CEF3\\Win64\\Resources\\locales\\th.pak": {
+    "Bodycam\\Engine\\Binaries\\ThirdParty\\CEF3\\Win64\\Resources\\locales\\th.pak": {
         "size": 597955,
-        "modification_date": "2024-07-05 08:53:06"
+        "modification_date": "2024-10-03 23:38:36"
     },
-    "Engine\\Binaries\\ThirdParty\\CEF3\\Win64\\Resources\\locales\\tr.pak": {
+    "Bodycam\\Engine\\Binaries\\ThirdParty\\CEF3\\Win64\\Resources\\locales\\tr.pak": {
         "size": 306063,
-        "modification_date": "2024-07-05 08:53:04"
+        "modification_date": "2024-10-03 23:38:36"
     },
-    "Engine\\Binaries\\ThirdParty\\CEF3\\Win64\\Resources\\locales\\uk.pak": {
+    "Bodycam\\Engine\\Binaries\\ThirdParty\\CEF3\\Win64\\Resources\\locales\\uk.pak": {
         "size": 512486,
-        "modification_date": "2024-07-05 08:53:06"
+        "modification_date": "2024-10-03 23:38:36"
     },
-    "Engine\\Binaries\\ThirdParty\\CEF3\\Win64\\Resources\\locales\\vi.pak": {
+    "Bodycam\\Engine\\Binaries\\ThirdParty\\CEF3\\Win64\\Resources\\locales\\vi.pak": {
         "size": 359978,
-        "modification_date": "2024-07-05 08:53:05"
+        "modification_date": "2024-10-03 23:38:36"
     },
-    "Engine\\Binaries\\ThirdParty\\CEF3\\Win64\\Resources\\locales\\zh-CN.pak": {
+    "Bodycam\\Engine\\Binaries\\ThirdParty\\CEF3\\Win64\\Resources\\locales\\zh-CN.pak": {
         "size": 265445,
-        "modification_date": "2024-07-05 08:53:04"
+        "modification_date": "2024-10-03 23:38:36"
     },
-    "Engine\\Binaries\\ThirdParty\\CEF3\\Win64\\Resources\\locales\\zh-TW.pak": {
+    "Bodycam\\Engine\\Binaries\\ThirdParty\\CEF3\\Win64\\Resources\\locales\\zh-TW.pak": {
         "size": 263978,
-        "modification_date": "2024-07-05 08:53:04"
+        "modification_date": "2024-10-03 23:38:36"
     },
-    "Engine\\Binaries\\ThirdParty\\CEF3\\Win64\\Resources\\swiftshader\\libEGL.dll": {
+    "Bodycam\\Engine\\Binaries\\ThirdParty\\CEF3\\Win64\\Resources\\swiftshader\\libEGL.dll": {
         "size": 438216,
-        "modification_date": "2024-07-05 08:53:05"
+        "modification_date": "2024-10-03 23:38:36"
     },
-    "Engine\\Binaries\\ThirdParty\\CEF3\\Win64\\Resources\\swiftshader\\libGLESv2.dll": {
+    "Bodycam\\Engine\\Binaries\\ThirdParty\\CEF3\\Win64\\Resources\\swiftshader\\libGLESv2.dll": {
         "size": 2762184,
-        "modification_date": "2024-07-05 09:00:04"
+        "modification_date": "2024-10-03 23:46:50"
     },
-    "Engine\\Binaries\\ThirdParty\\DbgHelp\\dbghelp.dll": {
+    "Bodycam\\Engine\\Binaries\\ThirdParty\\DbgHelp\\dbghelp.dll": {
         "size": 1885072,
-        "modification_date": "2024-07-05 09:00:05"
+        "modification_date": "2024-10-03 23:46:51"
     },
-    "Engine\\Binaries\\ThirdParty\\NVIDIA\\GPUDirect\\Win64\\dvp.dll": {
+    "Bodycam\\Engine\\Binaries\\ThirdParty\\NVIDIA\\GPUDirect\\Win64\\dvp.dll": {
         "size": 231368,
-        "modification_date": "2024-07-05 08:53:04"
+        "modification_date": "2024-10-03 23:38:36"
     },
-    "Engine\\Binaries\\ThirdParty\\NVIDIA\\NVaftermath\\Win64\\GFSDK_Aftermath_Lib.x64.dll": {
+    "Bodycam\\Engine\\Binaries\\ThirdParty\\NVIDIA\\NVaftermath\\Win64\\GFSDK_Aftermath_Lib.x64.dll": {
         "size": 1881544,
-        "modification_date": "2024-07-05 09:00:05"
+        "modification_date": "2024-10-03 23:46:51"
     },
-    "Engine\\Binaries\\ThirdParty\\Ogg\\Win64\\VS2015\\libogg_64.dll": {
+    "Bodycam\\Engine\\Binaries\\ThirdParty\\Ogg\\Win64\\VS2015\\libogg_64.dll": {
         "size": 65480,
-        "modification_date": "2024-07-05 08:53:03"
+        "modification_date": "2024-10-03 23:38:29"
     },
-    "Engine\\Binaries\\ThirdParty\\Vorbis\\Win64\\VS2015\\libvorbisfile_64.dll": {
+    "Bodycam\\Engine\\Binaries\\ThirdParty\\Vorbis\\Win64\\VS2015\\libvorbisfile_64.dll": {
         "size": 54216,
-        "modification_date": "2024-07-05 08:53:03"
+        "modification_date": "2024-10-03 23:38:29"
     },
-    "Engine\\Binaries\\ThirdParty\\Vorbis\\Win64\\VS2015\\libvorbis_64.dll": {
+    "Bodycam\\Engine\\Binaries\\ThirdParty\\Vorbis\\Win64\\VS2015\\libvorbis_64.dll": {
         "size": 1730504,
-        "modification_date": "2024-07-05 09:00:05"
+        "modification_date": "2024-10-03 23:46:51"
     },
-    "Engine\\Binaries\\ThirdParty\\Windows\\XAudio2_9\\x64\\xaudio2_9redist.dll": {
+    "Bodycam\\Engine\\Binaries\\ThirdParty\\Windows\\XAudio2_9\\x64\\xaudio2_9redist.dll": {
         "size": 863776,
-        "modification_date": "2024-07-05 08:53:09"
+        "modification_date": "2024-10-03 23:38:37"
     },
-    "Engine\\Binaries\\Win64\\EpicWebHelper.exe": {
+    "Bodycam\\Engine\\Binaries\\Win64\\EpicWebHelper.exe": {
         "size": 4231112,
-        "modification_date": "2024-07-05 09:00:05"
+        "modification_date": "2024-10-03 23:46:51"
     },
-    "Engine\\Content\\SlateDebug\\Fonts\\LastResort.tps": {
+    "Bodycam\\Engine\\Content\\SlateDebug\\Fonts\\LastResort.tps": {
         "size": 930,
-        "modification_date": "2024-07-05 08:53:02"
+        "modification_date": "2024-10-03 23:38:28"
     },
-    "Engine\\Content\\SlateDebug\\Fonts\\LastResort.ttf": {
+    "Bodycam\\Engine\\Content\\SlateDebug\\Fonts\\LastResort.ttf": {
         "size": 5395052,
-        "modification_date": "2024-07-05 09:00:06"
+        "modification_date": "2024-10-03 23:46:51"
     },
-    "Engine\\Extras\\Redist\\en-us\\UEPrereqSetup_x64.exe": {
+    "Bodycam\\Engine\\Extras\\Redist\\en-us\\UEPrereqSetup_x64.exe": {
         "size": 50596640,
-        "modification_date": "2024-07-05 09:00:06"
-    },
-    "Engine\\Plugins\\Marketplace\\SteamCorePro\\Source\\ThirdParty\\SteamLibrary\\redistributable_bin\\win64\\steam_api64.dll": {
-        "size": 301928,
-        "modification_date": "2024-06-11 10:08:40"
-    },
-    "_CommonRedist\\DirectX\\Jun2010\\Apr2005_d3dx9_25_x64.cab": {
-        "size": 1347354,
-        "modification_date": "2024-07-05 08:53:12"
-    },
-    "_CommonRedist\\DirectX\\Jun2010\\Apr2005_d3dx9_25_x86.cab": {
-        "size": 1078962,
-        "modification_date": "2024-07-05 08:53:12"
-    },
-    "_CommonRedist\\DirectX\\Jun2010\\Apr2006_d3dx9_30_x64.cab": {
-        "size": 1397830,
-        "modification_date": "2024-07-05 08:53:12"
-    },
-    "_CommonRedist\\DirectX\\Jun2010\\Apr2006_d3dx9_30_x86.cab": {
-        "size": 1115221,
-        "modification_date": "2024-07-05 08:53:12"
-    },
-    "_CommonRedist\\DirectX\\Jun2010\\Apr2006_MDX1_x86.cab": {
-        "size": 916430,
-        "modification_date": "2024-07-05 08:53:10"
-    },
-    "_CommonRedist\\DirectX\\Jun2010\\Apr2006_MDX1_x86_Archive.cab": {
-        "size": 4162630,
-        "modification_date": "2024-07-05 08:53:12"
-    },
-    "_CommonRedist\\DirectX\\Jun2010\\Apr2006_XACT_x64.cab": {
-        "size": 179133,
-        "modification_date": "2024-07-05 08:53:03"
-    },
-    "_CommonRedist\\DirectX\\Jun2010\\Apr2006_XACT_x86.cab": {
-        "size": 133103,
-        "modification_date": "2024-07-05 08:53:03"
-    },
-    "_CommonRedist\\DirectX\\Jun2010\\Apr2006_xinput_x64.cab": {
-        "size": 87101,
-        "modification_date": "2024-07-05 08:53:03"
-    },
-    "_CommonRedist\\DirectX\\Jun2010\\Apr2006_xinput_x86.cab": {
-        "size": 46010,
-        "modification_date": "2024-07-05 08:53:03"
-    },
-    "_CommonRedist\\DirectX\\Jun2010\\APR2007_d3dx10_33_x64.cab": {
-        "size": 698612,
-        "modification_date": "2024-07-05 08:53:07"
-    },
-    "_CommonRedist\\DirectX\\Jun2010\\APR2007_d3dx10_33_x86.cab": {
-        "size": 695865,
-        "modification_date": "2024-07-05 08:53:07"
-    },
-    "_CommonRedist\\DirectX\\Jun2010\\APR2007_d3dx9_33_x64.cab": {
-        "size": 1607358,
-        "modification_date": "2024-07-05 08:53:12"
-    },
-    "_CommonRedist\\DirectX\\Jun2010\\APR2007_d3dx9_33_x86.cab": {
-        "size": 1606039,
-        "modification_date": "2024-07-05 08:53:12"
-    },
-    "_CommonRedist\\DirectX\\Jun2010\\APR2007_XACT_x64.cab": {
-        "size": 195766,
-        "modification_date": "2024-07-05 08:53:04"
-    },
-    "_CommonRedist\\DirectX\\Jun2010\\APR2007_XACT_x86.cab": {
-        "size": 151225,
-        "modification_date": "2024-07-05 08:53:03"
-    },
-    "_CommonRedist\\DirectX\\Jun2010\\APR2007_xinput_x64.cab": {
-        "size": 96817,
-        "modification_date": "2024-07-05 08:53:03"
-    },
-    "_CommonRedist\\DirectX\\Jun2010\\APR2007_xinput_x86.cab": {
-        "size": 53302,
-        "modification_date": "2024-07-05 08:53:03"
-    },
-    "_CommonRedist\\DirectX\\Jun2010\\Aug2005_d3dx9_27_x64.cab": {
-        "size": 1350542,
-        "modification_date": "2024-07-05 08:53:12"
-    },
-    "_CommonRedist\\DirectX\\Jun2010\\Aug2005_d3dx9_27_x86.cab": {
-        "size": 1077644,
-        "modification_date": "2024-07-05 08:53:12"
-    },
-    "_CommonRedist\\DirectX\\Jun2010\\AUG2006_XACT_x64.cab": {
-        "size": 182903,
-        "modification_date": "2024-07-05 08:53:04"
-    },
-    "_CommonRedist\\DirectX\\Jun2010\\AUG2006_XACT_x86.cab": {
-        "size": 137235,
-        "modification_date": "2024-07-05 08:53:03"
-    },
-    "_CommonRedist\\DirectX\\Jun2010\\AUG2006_xinput_x64.cab": {
-        "size": 87142,
-        "modification_date": "2024-07-05 08:53:03"
-    },
-    "_CommonRedist\\DirectX\\Jun2010\\AUG2006_xinput_x86.cab": {
-        "size": 46058,
-        "modification_date": "2024-07-05 08:53:03"
-    },
-    "_CommonRedist\\DirectX\\Jun2010\\AUG2007_d3dx10_35_x64.cab": {
-        "size": 852286,
-        "modification_date": "2024-07-05 08:53:09"
-    },
-    "_CommonRedist\\DirectX\\Jun2010\\AUG2007_d3dx10_35_x86.cab": {
-        "size": 796867,
-        "modification_date": "2024-07-05 08:53:08"
-    },
-    "_CommonRedist\\DirectX\\Jun2010\\AUG2007_d3dx9_35_x64.cab": {
-        "size": 1800160,
-        "modification_date": "2024-07-05 08:53:12"
-    },
-    "_CommonRedist\\DirectX\\Jun2010\\AUG2007_d3dx9_35_x86.cab": {
-        "size": 1708152,
-        "modification_date": "2024-07-05 08:53:12"
-    },
-    "_CommonRedist\\DirectX\\Jun2010\\AUG2007_XACT_x64.cab": {
-        "size": 198096,
-        "modification_date": "2024-07-05 08:53:04"
-    },
-    "_CommonRedist\\DirectX\\Jun2010\\AUG2007_XACT_x86.cab": {
-        "size": 153012,
-        "modification_date": "2024-07-05 08:53:03"
-    },
-    "_CommonRedist\\DirectX\\Jun2010\\Aug2008_d3dx10_39_x64.cab": {
-        "size": 867612,
-        "modification_date": "2024-07-05 08:53:09"
-    },
-    "_CommonRedist\\DirectX\\Jun2010\\Aug2008_d3dx10_39_x86.cab": {
-        "size": 849167,
-        "modification_date": "2024-07-05 08:53:09"
-    },
-    "_CommonRedist\\DirectX\\Jun2010\\Aug2008_d3dx9_39_x64.cab": {
-        "size": 1794084,
-        "modification_date": "2024-07-05 08:53:12"
-    },
-    "_CommonRedist\\DirectX\\Jun2010\\Aug2008_d3dx9_39_x86.cab": {
-        "size": 1464672,
-        "modification_date": "2024-07-05 08:53:12"
-    },
-    "_CommonRedist\\DirectX\\Jun2010\\Aug2008_XACT_x64.cab": {
-        "size": 121772,
-        "modification_date": "2024-07-05 08:53:03"
-    },
-    "_CommonRedist\\DirectX\\Jun2010\\Aug2008_XACT_x86.cab": {
-        "size": 92996,
-        "modification_date": "2024-07-05 08:53:03"
-    },
-    "_CommonRedist\\DirectX\\Jun2010\\Aug2008_XAudio_x64.cab": {
-        "size": 271412,
-        "modification_date": "2024-07-05 08:53:04"
-    },
-    "_CommonRedist\\DirectX\\Jun2010\\Aug2008_XAudio_x86.cab": {
-        "size": 271038,
-        "modification_date": "2024-07-05 08:53:04"
-    },
-    "_CommonRedist\\DirectX\\Jun2010\\Aug2009_D3DCompiler_42_x64.cab": {
-        "size": 919044,
-        "modification_date": "2024-07-05 08:53:10"
-    },
-    "_CommonRedist\\DirectX\\Jun2010\\Aug2009_D3DCompiler_42_x86.cab": {
-        "size": 900598,
-        "modification_date": "2024-07-05 08:53:10"
-    },
-    "_CommonRedist\\DirectX\\Jun2010\\Aug2009_d3dcsx_42_x64.cab": {
-        "size": 3112111,
-        "modification_date": "2024-07-05 08:53:12"
-    },
-    "_CommonRedist\\DirectX\\Jun2010\\Aug2009_d3dcsx_42_x86.cab": {
-        "size": 3319740,
-        "modification_date": "2024-07-05 08:53:12"
-    },
-    "_CommonRedist\\DirectX\\Jun2010\\Aug2009_d3dx10_42_x64.cab": {
-        "size": 232635,
-        "modification_date": "2024-07-05 08:53:04"
-    },
-    "_CommonRedist\\DirectX\\Jun2010\\Aug2009_d3dx10_42_x86.cab": {
-        "size": 192131,
-        "modification_date": "2024-07-05 08:53:04"
-    },
-    "_CommonRedist\\DirectX\\Jun2010\\Aug2009_d3dx11_42_x64.cab": {
-        "size": 136301,
-        "modification_date": "2024-07-05 08:53:03"
-    },
-    "_CommonRedist\\DirectX\\Jun2010\\Aug2009_d3dx11_42_x86.cab": {
-        "size": 105044,
-        "modification_date": "2024-07-05 08:53:03"
-    },
-    "_CommonRedist\\DirectX\\Jun2010\\Aug2009_d3dx9_42_x64.cab": {
-        "size": 930116,
-        "modification_date": "2024-07-05 08:53:10"
-    },
-    "_CommonRedist\\DirectX\\Jun2010\\Aug2009_d3dx9_42_x86.cab": {
-        "size": 728456,
-        "modification_date": "2024-07-05 08:53:08"
-    },
-    "_CommonRedist\\DirectX\\Jun2010\\Aug2009_XACT_x64.cab": {
-        "size": 122408,
-        "modification_date": "2024-07-05 08:53:03"
-    },
-    "_CommonRedist\\DirectX\\Jun2010\\Aug2009_XACT_x86.cab": {
-        "size": 93106,
-        "modification_date": "2024-07-05 08:53:03"
-    },
-    "_CommonRedist\\DirectX\\Jun2010\\Aug2009_XAudio_x64.cab": {
-        "size": 273264,
-        "modification_date": "2024-07-05 08:53:04"
-    },
-    "_CommonRedist\\DirectX\\Jun2010\\Aug2009_XAudio_x86.cab": {
-        "size": 272642,
-        "modification_date": "2024-07-05 08:53:04"
-    },
-    "_CommonRedist\\DirectX\\Jun2010\\Dec2005_d3dx9_28_x64.cab": {
-        "size": 1357976,
-        "modification_date": "2024-07-05 08:53:12"
-    },
-    "_CommonRedist\\DirectX\\Jun2010\\Dec2005_d3dx9_28_x86.cab": {
-        "size": 1079456,
-        "modification_date": "2024-07-05 08:53:12"
-    },
-    "_CommonRedist\\DirectX\\Jun2010\\DEC2006_d3dx10_00_x64.cab": {
-        "size": 212807,
-        "modification_date": "2024-07-05 08:53:04"
-    },
-    "_CommonRedist\\DirectX\\Jun2010\\DEC2006_d3dx10_00_x86.cab": {
-        "size": 191720,
-        "modification_date": "2024-07-05 08:53:04"
-    },
-    "_CommonRedist\\DirectX\\Jun2010\\DEC2006_d3dx9_32_x64.cab": {
-        "size": 1571154,
-        "modification_date": "2024-07-05 08:53:12"
-    },
-    "_CommonRedist\\DirectX\\Jun2010\\DEC2006_d3dx9_32_x86.cab": {
-        "size": 1574376,
-        "modification_date": "2024-07-05 08:53:12"
-    },
-    "_CommonRedist\\DirectX\\Jun2010\\DEC2006_XACT_x64.cab": {
-        "size": 192475,
-        "modification_date": "2024-07-05 08:53:04"
-    },
-    "_CommonRedist\\DirectX\\Jun2010\\DEC2006_XACT_x86.cab": {
-        "size": 145599,
-        "modification_date": "2024-07-05 08:53:03"
-    },
-    "_CommonRedist\\DirectX\\Jun2010\\DSETUP.dll": {
-        "size": 95576,
-        "modification_date": "2024-07-05 08:53:03"
-    },
-    "_CommonRedist\\DirectX\\Jun2010\\dsetup32.dll": {
-        "size": 1566040,
-        "modification_date": "2024-07-05 08:53:12"
-    },
-    "_CommonRedist\\DirectX\\Jun2010\\dxdllreg_x86.cab": {
-        "size": 44624,
-        "modification_date": "2024-07-05 08:53:03"
-    },
-    "_CommonRedist\\DirectX\\Jun2010\\DXSETUP.exe": {
-        "size": 517976,
-        "modification_date": "2024-07-05 08:53:06"
-    },
-    "_CommonRedist\\DirectX\\Jun2010\\dxupdate.cab": {
-        "size": 97152,
-        "modification_date": "2024-07-05 08:53:03"
-    },
-    "_CommonRedist\\DirectX\\Jun2010\\Feb2005_d3dx9_24_x64.cab": {
-        "size": 1247499,
-        "modification_date": "2024-07-05 08:53:12"
-    },
-    "_CommonRedist\\DirectX\\Jun2010\\Feb2005_d3dx9_24_x86.cab": {
-        "size": 1013225,
-        "modification_date": "2024-07-05 08:53:11"
-    },
-    "_CommonRedist\\DirectX\\Jun2010\\Feb2006_d3dx9_29_x64.cab": {
-        "size": 1362796,
-        "modification_date": "2024-07-05 08:53:12"
-    },
-    "_CommonRedist\\DirectX\\Jun2010\\Feb2006_d3dx9_29_x86.cab": {
-        "size": 1084720,
-        "modification_date": "2024-07-05 08:53:12"
-    },
-    "_CommonRedist\\DirectX\\Jun2010\\Feb2006_XACT_x64.cab": {
-        "size": 178359,
-        "modification_date": "2024-07-05 08:53:03"
-    },
-    "_CommonRedist\\DirectX\\Jun2010\\Feb2006_XACT_x86.cab": {
-        "size": 132409,
-        "modification_date": "2024-07-05 08:53:03"
-    },
-    "_CommonRedist\\DirectX\\Jun2010\\FEB2007_XACT_x64.cab": {
-        "size": 194675,
-        "modification_date": "2024-07-05 08:53:04"
-    },
-    "_CommonRedist\\DirectX\\Jun2010\\FEB2007_XACT_x86.cab": {
-        "size": 147983,
-        "modification_date": "2024-07-05 08:53:03"
-    },
-    "_CommonRedist\\DirectX\\Jun2010\\Feb2010_X3DAudio_x64.cab": {
-        "size": 54678,
-        "modification_date": "2024-07-05 08:53:03"
-    },
-    "_CommonRedist\\DirectX\\Jun2010\\Feb2010_X3DAudio_x86.cab": {
-        "size": 20713,
-        "modification_date": "2024-07-05 08:53:02"
-    },
-    "_CommonRedist\\DirectX\\Jun2010\\Feb2010_XACT_x64.cab": {
-        "size": 122446,
-        "modification_date": "2024-07-05 08:53:03"
-    },
-    "_CommonRedist\\DirectX\\Jun2010\\Feb2010_XACT_x86.cab": {
-        "size": 93180,
-        "modification_date": "2024-07-05 08:53:03"
-    },
-    "_CommonRedist\\DirectX\\Jun2010\\Feb2010_XAudio_x64.cab": {
-        "size": 276960,
-        "modification_date": "2024-07-05 08:53:04"
-    },
-    "_CommonRedist\\DirectX\\Jun2010\\Feb2010_XAudio_x86.cab": {
-        "size": 277191,
-        "modification_date": "2024-07-05 08:53:04"
-    },
-    "_CommonRedist\\DirectX\\Jun2010\\installscript.vdf": {
-        "size": 596,
-        "modification_date": "2024-07-05 08:52:59"
-    },
-    "_CommonRedist\\DirectX\\Jun2010\\Jun2005_d3dx9_26_x64.cab": {
-        "size": 1336002,
-        "modification_date": "2024-07-05 08:53:12"
-    },
-    "_CommonRedist\\DirectX\\Jun2010\\Jun2005_d3dx9_26_x86.cab": {
-        "size": 1064925,
-        "modification_date": "2024-07-05 08:53:13"
-    },
-    "_CommonRedist\\DirectX\\Jun2010\\JUN2006_XACT_x64.cab": {
-        "size": 180785,
-        "modification_date": "2024-07-05 08:53:03"
-    },
-    "_CommonRedist\\DirectX\\Jun2010\\JUN2006_XACT_x86.cab": {
-        "size": 133671,
-        "modification_date": "2024-07-05 08:53:03"
-    },
-    "_CommonRedist\\DirectX\\Jun2010\\JUN2007_d3dx10_34_x64.cab": {
-        "size": 699044,
-        "modification_date": "2024-07-05 08:53:07"
-    },
-    "_CommonRedist\\DirectX\\Jun2010\\JUN2007_d3dx10_34_x86.cab": {
-        "size": 698472,
-        "modification_date": "2024-07-05 08:53:07"
-    },
-    "_CommonRedist\\DirectX\\Jun2010\\JUN2007_d3dx9_34_x64.cab": {
-        "size": 1607774,
-        "modification_date": "2024-07-05 08:53:12"
-    },
-    "_CommonRedist\\DirectX\\Jun2010\\JUN2007_d3dx9_34_x86.cab": {
-        "size": 1607286,
-        "modification_date": "2024-07-05 08:53:12"
-    },
-    "_CommonRedist\\DirectX\\Jun2010\\JUN2007_XACT_x64.cab": {
-        "size": 197122,
-        "modification_date": "2024-07-05 08:53:04"
-    },
-    "_CommonRedist\\DirectX\\Jun2010\\JUN2007_XACT_x86.cab": {
-        "size": 152909,
-        "modification_date": "2024-07-05 08:53:03"
-    },
-    "_CommonRedist\\DirectX\\Jun2010\\JUN2008_d3dx10_38_x64.cab": {
-        "size": 867828,
-        "modification_date": "2024-07-05 08:53:09"
-    },
-    "_CommonRedist\\DirectX\\Jun2010\\JUN2008_d3dx10_38_x86.cab": {
-        "size": 849919,
-        "modification_date": "2024-07-05 08:53:09"
-    },
-    "_CommonRedist\\DirectX\\Jun2010\\JUN2008_d3dx9_38_x64.cab": {
-        "size": 1792608,
-        "modification_date": "2024-07-05 08:53:12"
-    },
-    "_CommonRedist\\DirectX\\Jun2010\\JUN2008_d3dx9_38_x86.cab": {
-        "size": 1463878,
-        "modification_date": "2024-07-05 08:53:12"
-    },
-    "_CommonRedist\\DirectX\\Jun2010\\JUN2008_X3DAudio_x64.cab": {
-        "size": 55154,
-        "modification_date": "2024-07-05 08:53:03"
-    },
-    "_CommonRedist\\DirectX\\Jun2010\\JUN2008_X3DAudio_x86.cab": {
-        "size": 21905,
-        "modification_date": "2024-07-05 08:53:02"
-    },
-    "_CommonRedist\\DirectX\\Jun2010\\JUN2008_XACT_x64.cab": {
-        "size": 121054,
-        "modification_date": "2024-07-05 08:53:03"
-    },
-    "_CommonRedist\\DirectX\\Jun2010\\JUN2008_XACT_x86.cab": {
-        "size": 93128,
-        "modification_date": "2024-07-05 08:53:03"
-    },
-    "_CommonRedist\\DirectX\\Jun2010\\JUN2008_XAudio_x64.cab": {
-        "size": 269628,
-        "modification_date": "2024-07-05 08:53:04"
-    },
-    "_CommonRedist\\DirectX\\Jun2010\\JUN2008_XAudio_x86.cab": {
-        "size": 269024,
-        "modification_date": "2024-07-05 08:53:04"
-    },
-    "_CommonRedist\\DirectX\\Jun2010\\Jun2010_D3DCompiler_43_x64.cab": {
-        "size": 944460,
-        "modification_date": "2024-07-05 08:53:10"
-    },
-    "_CommonRedist\\DirectX\\Jun2010\\Jun2010_D3DCompiler_43_x86.cab": {
-        "size": 931471,
-        "modification_date": "2024-07-05 08:53:10"
-    },
-    "_CommonRedist\\DirectX\\Jun2010\\Jun2010_d3dcsx_43_x64.cab": {
-        "size": 752783,
-        "modification_date": "2024-07-05 08:53:08"
-    },
-    "_CommonRedist\\DirectX\\Jun2010\\Jun2010_d3dcsx_43_x86.cab": {
-        "size": 762188,
-        "modification_date": "2024-07-05 08:53:08"
-    },
-    "_CommonRedist\\DirectX\\Jun2010\\Jun2010_d3dx10_43_x64.cab": {
-        "size": 235955,
-        "modification_date": "2024-07-05 08:53:04"
-    },
-    "_CommonRedist\\DirectX\\Jun2010\\Jun2010_d3dx10_43_x86.cab": {
-        "size": 197283,
-        "modification_date": "2024-07-05 08:53:04"
-    },
-    "_CommonRedist\\DirectX\\Jun2010\\Jun2010_d3dx11_43_x64.cab": {
-        "size": 138205,
-        "modification_date": "2024-07-05 08:53:03"
-    },
-    "_CommonRedist\\DirectX\\Jun2010\\Jun2010_d3dx11_43_x86.cab": {
-        "size": 109445,
-        "modification_date": "2024-07-05 08:53:03"
-    },
-    "_CommonRedist\\DirectX\\Jun2010\\Jun2010_d3dx9_43_x64.cab": {
-        "size": 937246,
-        "modification_date": "2024-07-05 08:53:10"
-    },
-    "_CommonRedist\\DirectX\\Jun2010\\Jun2010_d3dx9_43_x86.cab": {
-        "size": 768036,
-        "modification_date": "2024-07-05 08:53:08"
-    },
-    "_CommonRedist\\DirectX\\Jun2010\\Jun2010_XACT_x64.cab": {
-        "size": 124596,
-        "modification_date": "2024-07-05 08:53:03"
-    },
-    "_CommonRedist\\DirectX\\Jun2010\\Jun2010_XACT_x86.cab": {
-        "size": 93686,
-        "modification_date": "2024-07-05 08:53:03"
-    },
-    "_CommonRedist\\DirectX\\Jun2010\\Jun2010_XAudio_x64.cab": {
-        "size": 277338,
-        "modification_date": "2024-07-05 08:53:04"
-    },
-    "_CommonRedist\\DirectX\\Jun2010\\Jun2010_XAudio_x86.cab": {
-        "size": 278060,
-        "modification_date": "2024-07-05 08:53:04"
-    },
-    "_CommonRedist\\DirectX\\Jun2010\\Mar2008_d3dx10_37_x64.cab": {
-        "size": 844884,
-        "modification_date": "2024-07-05 08:53:09"
-    },
-    "_CommonRedist\\DirectX\\Jun2010\\Mar2008_d3dx10_37_x86.cab": {
-        "size": 818260,
-        "modification_date": "2024-07-05 08:53:09"
-    },
-    "_CommonRedist\\DirectX\\Jun2010\\Mar2008_d3dx9_37_x64.cab": {
-        "size": 1769862,
-        "modification_date": "2024-07-05 08:53:13"
-    },
-    "_CommonRedist\\DirectX\\Jun2010\\Mar2008_d3dx9_37_x86.cab": {
-        "size": 1443282,
-        "modification_date": "2024-07-05 08:53:12"
-    },
-    "_CommonRedist\\DirectX\\Jun2010\\Mar2008_X3DAudio_x64.cab": {
-        "size": 55058,
-        "modification_date": "2024-07-05 08:53:03"
-    },
-    "_CommonRedist\\DirectX\\Jun2010\\Mar2008_X3DAudio_x86.cab": {
-        "size": 21867,
-        "modification_date": "2024-07-05 08:53:02"
-    },
-    "_CommonRedist\\DirectX\\Jun2010\\Mar2008_XACT_x64.cab": {
-        "size": 122336,
-        "modification_date": "2024-07-05 08:53:03"
-    },
-    "_CommonRedist\\DirectX\\Jun2010\\Mar2008_XACT_x86.cab": {
-        "size": 93734,
-        "modification_date": "2024-07-05 08:53:03"
-    },
-    "_CommonRedist\\DirectX\\Jun2010\\Mar2008_XAudio_x64.cab": {
-        "size": 251194,
-        "modification_date": "2024-07-05 08:53:04"
-    },
-    "_CommonRedist\\DirectX\\Jun2010\\Mar2008_XAudio_x86.cab": {
-        "size": 226250,
-        "modification_date": "2024-07-05 08:53:04"
-    },
-    "_CommonRedist\\DirectX\\Jun2010\\Mar2009_d3dx10_41_x64.cab": {
-        "size": 1067160,
-        "modification_date": "2024-07-05 08:53:13"
-    },
-    "_CommonRedist\\DirectX\\Jun2010\\Mar2009_d3dx10_41_x86.cab": {
-        "size": 1040745,
-        "modification_date": "2024-07-05 08:53:12"
-    },
-    "_CommonRedist\\DirectX\\Jun2010\\Mar2009_d3dx9_41_x64.cab": {
-        "size": 1973702,
-        "modification_date": "2024-07-05 08:53:12"
-    },
-    "_CommonRedist\\DirectX\\Jun2010\\Mar2009_d3dx9_41_x86.cab": {
-        "size": 1612446,
-        "modification_date": "2024-07-05 08:53:12"
-    },
-    "_CommonRedist\\DirectX\\Jun2010\\Mar2009_X3DAudio_x64.cab": {
-        "size": 54600,
-        "modification_date": "2024-07-05 08:53:03"
-    },
-    "_CommonRedist\\DirectX\\Jun2010\\Mar2009_X3DAudio_x86.cab": {
-        "size": 21298,
-        "modification_date": "2024-07-05 08:53:02"
-    },
-    "_CommonRedist\\DirectX\\Jun2010\\Mar2009_XACT_x64.cab": {
-        "size": 121506,
-        "modification_date": "2024-07-05 08:53:03"
-    },
-    "_CommonRedist\\DirectX\\Jun2010\\Mar2009_XACT_x86.cab": {
-        "size": 92740,
-        "modification_date": "2024-07-05 08:53:03"
-    },
-    "_CommonRedist\\DirectX\\Jun2010\\Mar2009_XAudio_x64.cab": {
-        "size": 275044,
-        "modification_date": "2024-07-05 08:53:04"
-    },
-    "_CommonRedist\\DirectX\\Jun2010\\Mar2009_XAudio_x86.cab": {
-        "size": 273018,
-        "modification_date": "2024-07-05 08:53:04"
-    },
-    "_CommonRedist\\DirectX\\Jun2010\\Nov2007_d3dx10_36_x64.cab": {
-        "size": 864600,
-        "modification_date": "2024-07-05 08:53:09"
-    },
-    "_CommonRedist\\DirectX\\Jun2010\\Nov2007_d3dx10_36_x86.cab": {
-        "size": 803884,
-        "modification_date": "2024-07-05 08:53:08"
-    },
-    "_CommonRedist\\DirectX\\Jun2010\\Nov2007_d3dx9_36_x64.cab": {
-        "size": 1802058,
-        "modification_date": "2024-07-05 08:53:12"
-    },
-    "_CommonRedist\\DirectX\\Jun2010\\Nov2007_d3dx9_36_x86.cab": {
-        "size": 1709360,
-        "modification_date": "2024-07-05 08:53:13"
-    },
-    "_CommonRedist\\DirectX\\Jun2010\\NOV2007_X3DAudio_x64.cab": {
-        "size": 46144,
-        "modification_date": "2024-07-05 08:53:03"
-    },
-    "_CommonRedist\\DirectX\\Jun2010\\NOV2007_X3DAudio_x86.cab": {
-        "size": 18496,
-        "modification_date": "2024-07-05 08:53:02"
-    },
-    "_CommonRedist\\DirectX\\Jun2010\\NOV2007_XACT_x64.cab": {
-        "size": 196762,
-        "modification_date": "2024-07-05 08:53:04"
-    },
-    "_CommonRedist\\DirectX\\Jun2010\\NOV2007_XACT_x86.cab": {
-        "size": 148264,
-        "modification_date": "2024-07-05 08:53:03"
-    },
-    "_CommonRedist\\DirectX\\Jun2010\\Nov2008_d3dx10_40_x64.cab": {
-        "size": 994154,
-        "modification_date": "2024-07-05 08:53:11"
-    },
-    "_CommonRedist\\DirectX\\Jun2010\\Nov2008_d3dx10_40_x86.cab": {
-        "size": 965421,
-        "modification_date": "2024-07-05 08:53:11"
-    },
-    "_CommonRedist\\DirectX\\Jun2010\\Nov2008_d3dx9_40_x64.cab": {
-        "size": 1906878,
-        "modification_date": "2024-07-05 08:53:13"
-    },
-    "_CommonRedist\\DirectX\\Jun2010\\Nov2008_d3dx9_40_x86.cab": {
-        "size": 1550796,
-        "modification_date": "2024-07-05 08:53:13"
-    },
-    "_CommonRedist\\DirectX\\Jun2010\\Nov2008_X3DAudio_x64.cab": {
-        "size": 54522,
-        "modification_date": "2024-07-05 08:53:03"
-    },
-    "_CommonRedist\\DirectX\\Jun2010\\Nov2008_X3DAudio_x86.cab": {
-        "size": 21851,
-        "modification_date": "2024-07-05 08:53:02"
-    },
-    "_CommonRedist\\DirectX\\Jun2010\\Nov2008_XACT_x64.cab": {
-        "size": 121794,
-        "modification_date": "2024-07-05 08:53:03"
-    },
-    "_CommonRedist\\DirectX\\Jun2010\\Nov2008_XACT_x86.cab": {
-        "size": 92684,
-        "modification_date": "2024-07-05 08:53:03"
-    },
-    "_CommonRedist\\DirectX\\Jun2010\\Nov2008_XAudio_x64.cab": {
-        "size": 273960,
-        "modification_date": "2024-07-05 08:53:04"
-    },
-    "_CommonRedist\\DirectX\\Jun2010\\Nov2008_XAudio_x86.cab": {
-        "size": 272611,
-        "modification_date": "2024-07-05 08:53:04"
-    },
-    "_CommonRedist\\DirectX\\Jun2010\\Oct2005_xinput_x64.cab": {
-        "size": 86037,
-        "modification_date": "2024-07-05 08:53:03"
-    },
-    "_CommonRedist\\DirectX\\Jun2010\\Oct2005_xinput_x86.cab": {
-        "size": 45359,
-        "modification_date": "2024-07-05 08:53:03"
-    },
-    "_CommonRedist\\DirectX\\Jun2010\\OCT2006_d3dx9_31_x64.cab": {
-        "size": 1412902,
-        "modification_date": "2024-07-05 08:53:13"
-    },
-    "_CommonRedist\\DirectX\\Jun2010\\OCT2006_d3dx9_31_x86.cab": {
-        "size": 1127217,
-        "modification_date": "2024-07-05 08:53:12"
-    },
-    "_CommonRedist\\DirectX\\Jun2010\\OCT2006_XACT_x64.cab": {
-        "size": 182361,
-        "modification_date": "2024-07-05 08:53:04"
-    },
-    "_CommonRedist\\DirectX\\Jun2010\\OCT2006_XACT_x86.cab": {
-        "size": 138017,
-        "modification_date": "2024-07-05 08:53:03"
-    },
-    "_CommonRedist\\vcredist\\2022\\installscript.vdf": {
-        "size": 881,
-        "modification_date": "2024-07-05 08:52:57"
-    },
-    "_CommonRedist\\vcredist\\2022\\installscript.vdf.bak": {
-        "size": 881,
-        "modification_date": "2024-07-05 08:53:02"
-    },
-    "_CommonRedist\\vcredist\\2022\\Microsoft Visual C++ 2022 x64.cmd": {
-        "size": 121,
-        "modification_date": "2024-07-05 08:53:02"
-    },
-    "_CommonRedist\\vcredist\\2022\\Microsoft Visual C++ 2022 x86.cmd": {
-        "size": 121,
-        "modification_date": "2024-07-05 08:53:02"
-    },
-    "_CommonRedist\\vcredist\\2022\\VC_redist.x64.exe": {
-        "size": 25397512,
-        "modification_date": "2024-07-05 08:53:13"
-    },
-    "_CommonRedist\\vcredist\\2022\\VC_redist.x86.exe": {
-        "size": 13867304,
-        "modification_date": "2024-07-05 08:53:13"
+        "modification_date": "2024-10-03 23:46:52"
+    },
+    "Bodycam\\Engine\\Plugins\\Marketplace\\SteamCorePro\\Source\\ThirdParty\\SteamLibrary\\redistributable_bin\\win64\\steam_api64.dll": {
+        "size": 300392,
+        "modification_date": "2024-10-03 23:38:36"
+    },
+    "_CommonRedist\\dotNetFx40_Full_setup.exe": {
+        "size": 889416,
+        "modification_date": "2020-05-17 05:30:46"
+    },
+    "_CommonRedist\\dxwebsetup.exe": {
+        "size": 288088,
+        "modification_date": "2021-01-21 22:31:08"
+    },
+    "_CommonRedist\\oalinst.exe": {
+        "size": 809496,
+        "modification_date": "2021-01-21 22:31:08"
+    },
+    "_CommonRedist\\vcredist_2015-2019_x64.exe": {
+        "size": 14974024,
+        "modification_date": "2021-01-21 22:31:09"
+    },
+    "_CommonRedist\\vcredist_2015-2019_x86.exe": {
+        "size": 14412304,
+        "modification_date": "2021-01-21 22:31:09"
+    },
+    "_CommonRedist\\vcredist_x64.exe": {
+        "size": 5718872,
+        "modification_date": "2021-01-21 22:31:10"
+    },
+    "_CommonRedist\\vcredist_x86.exe": {
+        "size": 5073240,
+        "modification_date": "2021-01-21 22:31:10"
+    },
+    "_CommonRedist\\xnafx40_redist.msi": {
+        "size": 7054336,
+        "modification_date": "2020-05-17 05:30:46"
     }
 }
