@@ -397,5 +397,24 @@
         ],
         "source": "https://www.crackfusion.xyz",
         "addedDate": "2024-10-25"
+    },
+    {
+        "id": "Katana-Zero",
+        "title": "Katana ZERO",
+        "image": "https://raw.githubusercontent.com/crackfusion/crackfusion-data/main/game-images/katana-zero.jpg",
+        "description": "Katana ZERO is a stylish neo-noir, action-platformer featuring breakneck action and instant-death combat. Slash, dash, and manipulate time to unravel your past in a beautifully brutal acrobatic display.",
+        "versions": [
+            {
+                "version": "V: 1?",
+                "date": "2024-10-25",
+                "downloadLinks": [
+                    {"host": "Fastupload", "url": "https://fastupload.io/22b545ba8145b1e2"},
+                    {"host": "Buzzheavier (Use fdm)", "url": "https://buzzheavier.com/f/GbN4UF8FcAA"},
+                    {"host": "1fichier", "url": "https://1fichier.com/?eq9dyu69xljq8hbycqoa"}
+                ]
+            }
+        ],
+        "source": "https://www.crackfusion.xyz",
+        "addedDate": "2024-10-31"
     }
 ]
