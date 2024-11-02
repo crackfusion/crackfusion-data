@@ -417,5 +417,22 @@
         ],
         "source": "https://www.crackfusion.xyz",
         "addedDate": "2024-10-31"
+    },
+    {
+        "id": "I-Am-Your-Beast",
+        "title": "I Am Your Beast",
+        "image": "https://raw.githubusercontent.com/crackfusion/crackfusion-data/main/game-images/i-am-your-beast.jpg",
+        "description": "You are secret agent Alphonse Harding. Retired for six years, you’ve been asked to complete ‘one last job’, one too many times. Declining your latest mission sets in motion a furious guerilla war between you and the Covert Operations Initiative (COI) that litters the forest with bodies and bullet casings.",
+        "versions": [
+            {
+                "version": "Build: 15651533",
+                "date": "2024-11-02",
+                "downloadLinks": [
+                    {"host": "Filehaus", "url": "https://axorax.github.io/urlmskr/aHR0cHM6Ly9jZG43LmZpbGVoYXVzLnN1L2ZpbGVzLzE3MzA1MDQwMTlfMzAwNDkvSS1BbS1Zb3VyLUJlYXN0LUNyYWNrZnVzaW9uLnh5ei56aXA="}
+                ]
+            }
+        ],
+        "source": "https://www.crackfusion.xyz",
+        "addedDate": "2024-11-02"
     }
 ]
