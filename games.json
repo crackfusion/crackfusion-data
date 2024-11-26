@@ -28,14 +28,6 @@
                 "downloadLinks": [
                     {"host": "Multiup.io", "url": "https://multiup.io/ddf39cea0cd075c59958ec81bd806fad"}
                 ]
-            },
-            {
-                "version": "V: 0.3.2 (Steam nodig)",
-                "date": "2024-09-21",
-                "downloadLinks": [
-                    {"host": "Fastupload", "url": "https://fastupload.io/babb0ecab10fed82"},
-                    {"host": "Buzzheavier (Use fdm)", "url": "https://buzzheavier.com/f/GX88hD9pAAA"}
-                ]
             }
 
         ],
